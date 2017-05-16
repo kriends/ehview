@@ -1,0 +1,252 @@
+[ 2017-05-03T11:04:07+08:00 ] ::1 /ehview/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: Run Common\Behavior\InitHookBehavior [ RunTime:0.105187s ]
+INFO: [ app_init ] --END-- [ RunTime:0.117416s ]
+
+[ 2017-05-03T11:04:23+08:00 ] ::1 /ehview/index.php?m=Home&c=Article&a=article&id=7
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: Run Common\Behavior\InitHookBehavior [ RunTime:0.002282s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002791s ]
+
+[ 2017-05-03T11:04:33+08:00 ] ::1 /ehview/index.php?m=Home&c=Article&a=article&id=2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: Run Common\Behavior\InitHookBehavior [ RunTime:0.001733s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002193s ]
+
+[ 2017-05-03T11:04:34+08:00 ] ::1 /ehview/index.php?m=Home&c=Article&a=article&id=3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: Run Common\Behavior\InitHookBehavior [ RunTime:0.001602s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002029s ]
+
+[ 2017-05-03T11:04:36+08:00 ] ::1 /ehview/index.php?m=Home&c=Article&a=article&id=2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: Run Common\Behavior\InitHookBehavior [ RunTime:0.001728s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002177s ]
+
+[ 2017-05-03T11:05:12+08:00 ] ::1 /ehview/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: Run Common\Behavior\InitHookBehavior [ RunTime:0.001679s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002120s ]
+
+[ 2017-05-03T11:05:19+08:00 ] ::1 /ehview/index.php?m=Home&c=About&a=index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: Run Common\Behavior\InitHookBehavior [ RunTime:0.001698s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002157s ]
+
+[ 2017-05-03T11:06:43+08:00 ] ::1 /ehview/index.php?m=Home&c=About&a=index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: Run Common\Behavior\InitHookBehavior [ RunTime:0.002691s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003276s ]
+
+[ 2017-05-03T11:09:03+08:00 ] ::1 /ehview/index.php?m=Home&c=About&a=index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: Run Common\Behavior\InitHookBehavior [ RunTime:0.002312s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002842s ]
+
+[ 2017-05-03T11:17:32+08:00 ] ::1 /ehview/index.php?
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: Run Common\Behavior\InitHookBehavior [ RunTime:0.002389s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002885s ]
+
+[ 2017-05-03T11:20:52+08:00 ] ::1 /ehview/index.php?m=Home&c=About&a=index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: Run Common\Behavior\InitHookBehavior [ RunTime:0.002371s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002936s ]
+
+[ 2017-05-03T11:23:29+08:00 ] ::1 /ehview/index.php?m=Home&c=About&a=index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: Run Common\Behavior\InitHookBehavior [ RunTime:0.002333s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002836s ]
+
+[ 2017-05-03T11:23:44+08:00 ] ::1 /ehview/index.php?m=Home&c=About&a=index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: Run Common\Behavior\InitHookBehavior [ RunTime:0.002134s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002633s ]
+
+[ 2017-05-03T11:23:47+08:00 ] ::1 /ehview/index.php?m=Home&c=Article&a=index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: Run Common\Behavior\InitHookBehavior [ RunTime:0.001675s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002111s ]
+
+[ 2017-05-03T11:23:52+08:00 ] ::1 /ehview/index.php?m=Home&c=Video&a=index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: Run Common\Behavior\InitHookBehavior [ RunTime:0.002158s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002624s ]
+
+[ 2017-05-03T11:24:00+08:00 ] ::1 /ehview/index.php?m=Home&c=Contact&a=index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: Run Common\Behavior\InitHookBehavior [ RunTime:0.002271s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002761s ]
+
+[ 2017-05-03T11:24:17+08:00 ] ::1 /ehview/index.php?m=Home&c=About&a=index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: Run Common\Behavior\InitHookBehavior [ RunTime:0.001688s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002133s ]
+
+[ 2017-05-03T11:24:18+08:00 ] ::1 /ehview/index.php?m=Home&c=Article&a=index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000123s ]
+INFO: Run Common\Behavior\InitHookBehavior [ RunTime:0.001804s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002406s ]
+
+[ 2017-05-03T11:24:22+08:00 ] ::1 /ehview/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: Run Common\Behavior\InitHookBehavior [ RunTime:0.001745s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002189s ]
+
+[ 2017-05-03T11:24:23+08:00 ] ::1 /ehview/index.php?m=Home&c=About&a=index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: Run Common\Behavior\InitHookBehavior [ RunTime:0.001686s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002125s ]
+
+[ 2017-05-03T11:30:30+08:00 ] ::1 /ehview/index.php?m=Home&c=About&a=index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: Run Common\Behavior\InitHookBehavior [ RunTime:0.002193s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002654s ]
+
+[ 2017-05-03T11:36:45+08:00 ] ::1 /ehview/index.php?m=Home&c=Contact&a=index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: Run Common\Behavior\InitHookBehavior [ RunTime:0.002191s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002686s ]
+
+[ 2017-05-03T11:38:01+08:00 ] ::1 /ehview/index.php?m=Home&c=Contact&a=index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: Run Common\Behavior\InitHookBehavior [ RunTime:0.002170s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002719s ]
+
+[ 2017-05-03T11:38:15+08:00 ] ::1 /ehview/index.php?m=Home&c=Contact&a=index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: Run Common\Behavior\InitHookBehavior [ RunTime:0.002536s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003200s ]
+
+[ 2017-05-03T11:38:20+08:00 ] ::1 /ehview/index.php?m=Home&c=Video&a=index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: Run Common\Behavior\InitHookBehavior [ RunTime:0.001680s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002117s ]
+
+[ 2017-05-03T11:38:22+08:00 ] ::1 /ehview/index.php?m=Home&c=Article&a=index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: Run Common\Behavior\InitHookBehavior [ RunTime:0.002263s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002751s ]
+
+[ 2017-05-03T11:38:24+08:00 ] ::1 /ehview/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: Run Common\Behavior\InitHookBehavior [ RunTime:0.001680s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002118s ]
+
+[ 2017-05-03T11:38:25+08:00 ] ::1 /ehview/index.php?m=Home&c=About&a=index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: Run Common\Behavior\InitHookBehavior [ RunTime:0.001682s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002124s ]
+
+[ 2017-05-03T11:38:27+08:00 ] ::1 /ehview/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: Run Common\Behavior\InitHookBehavior [ RunTime:0.001672s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002113s ]
+
+[ 2017-05-03T11:38:28+08:00 ] ::1 /ehview/index.php?m=Home&c=Contact&a=index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: Run Common\Behavior\InitHookBehavior [ RunTime:0.001673s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002113s ]
+
+[ 2017-05-03T11:38:29+08:00 ] ::1 /ehview/index.php?m=Home&c=Article&a=index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: Run Common\Behavior\InitHookBehavior [ RunTime:0.001673s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002111s ]
+
+[ 2017-05-03T11:38:30+08:00 ] ::1 /ehview/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: Run Common\Behavior\InitHookBehavior [ RunTime:0.002248s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002897s ]
+
+[ 2017-05-03T11:38:31+08:00 ] ::1 /ehview/index.php?m=Home&c=Video&a=index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: Run Common\Behavior\InitHookBehavior [ RunTime:0.001686s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002131s ]
+
+[ 2017-05-03T11:38:32+08:00 ] ::1 /ehview/index.php?m=Home&c=About&a=index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: Run Common\Behavior\InitHookBehavior [ RunTime:0.001684s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002128s ]
+
+[ 2017-05-03T11:38:33+08:00 ] ::1 /ehview/index.php?m=Home&c=Video&a=index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: Run Common\Behavior\InitHookBehavior [ RunTime:0.001614s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002057s ]
+
+[ 2017-05-03T11:38:34+08:00 ] ::1 /ehview/index.php?m=Home&c=Contact&a=index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: Run Common\Behavior\InitHookBehavior [ RunTime:0.001673s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002109s ]
+
+[ 2017-05-03T11:38:35+08:00 ] ::1 /ehview/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: Run Common\Behavior\InitHookBehavior [ RunTime:0.001680s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002122s ]
+
+[ 2017-05-03T11:38:36+08:00 ] ::1 /ehview/index.php?m=Home&c=About&a=index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: Run Common\Behavior\InitHookBehavior [ RunTime:0.001682s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002124s ]
+
+[ 2017-05-03T11:38:38+08:00 ] ::1 /ehview/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: Run Common\Behavior\InitHookBehavior [ RunTime:0.001830s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002282s ]
+
+[ 2017-05-03T11:38:39+08:00 ] ::1 /ehview/index.php?m=Home&c=Contact&a=index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: Run Common\Behavior\InitHookBehavior [ RunTime:0.001687s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002127s ]
+
+[ 2017-05-03T11:38:40+08:00 ] ::1 /ehview/index.php?m=Home&c=About&a=index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: Run Common\Behavior\InitHookBehavior [ RunTime:0.001671s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002108s ]
+
+[ 2017-05-03T11:38:44+08:00 ] ::1 /ehview/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: Run Common\Behavior\InitHookBehavior [ RunTime:0.001658s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002078s ]
+

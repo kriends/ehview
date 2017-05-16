@@ -1,0 +1,2378 @@
+[ 2017-05-04T11:39:07+08:00 ] ::1 /ehview/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: Run Common\Behavior\InitHookBehavior [ RunTime:0.099361s ]
+INFO: [ app_init ] --END-- [ RunTime:0.112308s ]
+
+[ 2017-05-04T11:59:59+08:00 ] ::1 /ehview/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: Run Common\Behavior\InitHookBehavior [ RunTime:0.002288s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002787s ]
+
+[ 2017-05-04T12:00:03+08:00 ] ::1 /ehview/index.php?m=Home&c=Video&a=video&id=13
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: Run Common\Behavior\InitHookBehavior [ RunTime:0.001567s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001992s ]
+
+[ 2017-05-04T12:00:23+08:00 ] ::1 /ehview/index.php?m=Home&c=Video&a=video&id=13
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: Run Common\Behavior\InitHookBehavior [ RunTime:0.002272s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002762s ]
+
+[ 2017-05-04T12:00:27+08:00 ] ::1 /ehview/index.php?m=Home&c=Video&a=video&id=10
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: Run Common\Behavior\InitHookBehavior [ RunTime:0.001701s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002142s ]
+
+[ 2017-05-04T12:00:33+08:00 ] ::1 /ehview/index.php?m=Home&c=Video&a=index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: Run Common\Behavior\InitHookBehavior [ RunTime:0.001673s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002112s ]
+
+[ 2017-05-04T12:00:35+08:00 ] ::1 /ehview/index.php?m=Home&c=Article&a=article&id=2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: Run Common\Behavior\InitHookBehavior [ RunTime:0.002179s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002648s ]
+
+[ 2017-05-04T12:00:42+08:00 ] ::1 /ehview/index.php?m=Home&c=Article&a=article&id=6
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: Run Common\Behavior\InitHookBehavior [ RunTime:0.001629s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002055s ]
+
+[ 2017-05-04T12:01:09+08:00 ] ::1 /ehview/index.php?m=Home&c=Video&a=index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: Run Common\Behavior\InitHookBehavior [ RunTime:0.002629s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003299s ]
+
+[ 2017-05-04T12:01:10+08:00 ] ::1 /ehview/index.php?m=Home&c=Video&a=video&id=2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: Run Common\Behavior\InitHookBehavior [ RunTime:0.001718s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002151s ]
+
+[ 2017-05-04T12:01:14+08:00 ] ::1 /ehview/index.php?m=Home&c=Video&a=video&id=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: Run Common\Behavior\InitHookBehavior [ RunTime:0.001726s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002185s ]
+
+[ 2017-05-04T12:01:16+08:00 ] ::1 /ehview/index.php?m=Home&c=Video&a=video&id=3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: Run Common\Behavior\InitHookBehavior [ RunTime:0.001670s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002110s ]
+
+[ 2017-05-04T12:01:19+08:00 ] ::1 /ehview/index.php?m=Home&c=Video&a=video&id=5
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: Run Common\Behavior\InitHookBehavior [ RunTime:0.001675s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002112s ]
+
+[ 2017-05-04T12:01:25+08:00 ] ::1 /ehview/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: Run Common\Behavior\InitHookBehavior [ RunTime:0.002230s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002722s ]
+
+[ 2017-05-04T12:02:46+08:00 ] ::1 /ehview/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: Run Common\Behavior\InitHookBehavior [ RunTime:0.002387s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002847s ]
+
+[ 2017-05-04T12:02:57+08:00 ] ::1 /ehview/index.php?m=Home&c=Video&a=video&id=5
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: Run Common\Behavior\InitHookBehavior [ RunTime:0.002431s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002961s ]
+
+[ 2017-05-04T12:03:16+08:00 ] ::1 /ehview/index.php?m=Home&c=Video&a=index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: Run Common\Behavior\InitHookBehavior [ RunTime:0.001710s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002154s ]
+
+[ 2017-05-04T12:04:27+08:00 ] ::1 /ehview/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: Run Common\Behavior\InitHookBehavior [ RunTime:0.001742s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002376s ]
+
+[ 2017-05-04T12:05:34+08:00 ] ::1 /ehview/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: Run Common\Behavior\InitHookBehavior [ RunTime:0.002272s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002938s ]
+
+[ 2017-05-04T12:05:53+08:00 ] ::1 /ehview/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: Run Common\Behavior\InitHookBehavior [ RunTime:0.001714s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002128s ]
+
+[ 2017-05-04T12:08:55+08:00 ] ::1 /ehview/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: Run Common\Behavior\InitHookBehavior [ RunTime:0.002175s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002644s ]
+
+[ 2017-05-04T12:09:05+08:00 ] ::1 /ehview/index.php?m=Home&c=video&a=index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: Run Common\Behavior\InitHookBehavior [ RunTime:0.001979s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002444s ]
+
+[ 2017-05-04T12:09:08+08:00 ] ::1 /ehview/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: Run Common\Behavior\InitHookBehavior [ RunTime:0.001689s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002130s ]
+
+[ 2017-05-04T12:09:12+08:00 ] ::1 /ehview/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: Run Common\Behavior\InitHookBehavior [ RunTime:0.001680s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002124s ]
+
+[ 2017-05-04T12:09:53+08:00 ] ::1 /ehview/index.php?m=Home&c=Video&a=video&id=5
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: Run Common\Behavior\InitHookBehavior [ RunTime:0.001661s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002079s ]
+
+[ 2017-05-04T12:10:52+08:00 ] ::1 /ehview/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: Run Common\Behavior\InitHookBehavior [ RunTime:0.002552s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003220s ]
+
+[ 2017-05-04T12:12:28+08:00 ] ::1 /ehview/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: Run Common\Behavior\InitHookBehavior [ RunTime:0.002230s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002692s ]
+
+[ 2017-05-04T12:12:31+08:00 ] ::1 /ehview/index.php?m=Home&c=About&a=index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: Run Common\Behavior\InitHookBehavior [ RunTime:0.001882s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002357s ]
+
+[ 2017-05-04T12:12:34+08:00 ] ::1 /ehview/index.php?m=Home&c=Article&a=index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: Run Common\Behavior\InitHookBehavior [ RunTime:0.002342s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002844s ]
+
+[ 2017-05-04T12:12:38+08:00 ] ::1 /ehview/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: Run Common\Behavior\InitHookBehavior [ RunTime:0.001689s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002137s ]
+
+[ 2017-05-04T12:12:40+08:00 ] ::1 /ehview/index.php?m=Home&c=Video&a=index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: Run Common\Behavior\InitHookBehavior [ RunTime:0.001742s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002201s ]
+
+[ 2017-05-04T12:12:45+08:00 ] ::1 /ehview/index.php?m=Home&c=Contact&a=index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: Run Common\Behavior\InitHookBehavior [ RunTime:0.001713s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002159s ]
+
+[ 2017-05-04T12:13:52+08:00 ] ::1 /ehview/index.php?m=Home&c=Contact&a=index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: Run Common\Behavior\InitHookBehavior [ RunTime:0.001671s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002126s ]
+
+[ 2017-05-04T12:14:01+08:00 ] ::1 /ehview/index.php?m=Home&c=Video&a=index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: Run Common\Behavior\InitHookBehavior [ RunTime:0.001645s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002071s ]
+
+[ 2017-05-04T12:14:03+08:00 ] ::1 /ehview/index.php?m=Home&c=Video&a=video&id=8
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: Run Common\Behavior\InitHookBehavior [ RunTime:0.001671s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002108s ]
+
+[ 2017-05-04T12:14:07+08:00 ] ::1 /ehview/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: Run Common\Behavior\InitHookBehavior [ RunTime:0.001787s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002230s ]
+
+[ 2017-05-04T12:14:15+08:00 ] ::1 /ehview/index.php?m=Home&c=About&a=index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: Run Common\Behavior\InitHookBehavior [ RunTime:0.002192s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002691s ]
+
+[ 2017-05-04T12:14:55+08:00 ] ::1 /ehview/index.php?m=Home&c=About&a=index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: Run Common\Behavior\InitHookBehavior [ RunTime:0.001565s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002089s ]
+
+[ 2017-05-04T12:15:03+08:00 ] ::1 /ehview/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: Run Common\Behavior\InitHookBehavior [ RunTime:0.002305s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002808s ]
+
+[ 2017-05-04T12:15:14+08:00 ] ::1 /ehview/index.php?m=Home&c=Article&a=article&id=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: Run Common\Behavior\InitHookBehavior [ RunTime:0.001675s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002112s ]
+
+[ 2017-05-04T12:25:56+08:00 ] ::1 /ehview/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: Run Common\Behavior\InitHookBehavior [ RunTime:0.002279s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002774s ]
+
+[ 2017-05-04T12:26:00+08:00 ] ::1 /ehview/index.php?m=Home&c=Video&a=video&id=13
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: Run Common\Behavior\InitHookBehavior [ RunTime:0.001679s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002125s ]
+
+[ 2017-05-04T12:26:09+08:00 ] ::1 /ehview/index.php?m=Home&c=Video&a=index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: Run Common\Behavior\InitHookBehavior [ RunTime:0.001668s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002106s ]
+
+[ 2017-05-04T12:26:11+08:00 ] ::1 /ehview/index.php?m=Home&c=Video&a=video&id=3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: Run Common\Behavior\InitHookBehavior [ RunTime:0.001671s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002110s ]
+
+[ 2017-05-04T12:26:12+08:00 ] ::1 /ehview/index.php?m=Home&c=Video&a=index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: Run Common\Behavior\InitHookBehavior [ RunTime:0.001706s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002171s ]
+
+[ 2017-05-04T12:26:13+08:00 ] ::1 /ehview/index.php?m=Home&c=Video&a=video&id=5
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: Run Common\Behavior\InitHookBehavior [ RunTime:0.001672s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002112s ]
+
+[ 2017-05-04T12:27:39+08:00 ] ::1 /ehview/index.php?m=Home&c=Video&a=video&id=5
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: Run Common\Behavior\InitHookBehavior [ RunTime:0.001617s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002047s ]
+
+[ 2017-05-04T12:27:41+08:00 ] ::1 /ehview/index.php?m=Home&c=Video&a=index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: Run Common\Behavior\InitHookBehavior [ RunTime:0.001681s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002125s ]
+
+[ 2017-05-04T12:27:42+08:00 ] ::1 /ehview/index.php?m=Home&c=Video&a=video&id=3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: Run Common\Behavior\InitHookBehavior [ RunTime:0.001617s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002046s ]
+
+[ 2017-05-04T12:28:09+08:00 ] ::1 /ehview/index.php?m=Home&c=Video&a=video&id=3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: Run Common\Behavior\InitHookBehavior [ RunTime:0.002260s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002745s ]
+
+[ 2017-05-04T12:28:56+08:00 ] ::1 /ehview/index.php?m=Home&c=Video&a=video&id=3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: Run Common\Behavior\InitHookBehavior [ RunTime:0.002211s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002714s ]
+
+[ 2017-05-04T12:31:01+08:00 ] ::1 /ehview/index.php?m=Home&c=Video&a=video&id=3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: Run Common\Behavior\InitHookBehavior [ RunTime:0.002169s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002639s ]
+
+[ 2017-05-04T12:32:58+08:00 ] ::1 /ehview/index.php?m=Home&c=Video&a=video&id=3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: Run Common\Behavior\InitHookBehavior [ RunTime:0.003329s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004078s ]
+
+[ 2017-05-04T12:33:40+08:00 ] ::1 /ehview/index.php?m=Home&c=Video&a=video&id=3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: Run Common\Behavior\InitHookBehavior [ RunTime:0.002283s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002804s ]
+
+[ 2017-05-04T12:34:33+08:00 ] ::1 /ehview/index.php?m=Home&c=Video&a=video&id=3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: Run Common\Behavior\InitHookBehavior [ RunTime:0.002031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002619s ]
+
+[ 2017-05-04T12:34:46+08:00 ] ::1 /ehview/index.php?m=Home&c=Video&a=video&id=3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: Run Common\Behavior\InitHookBehavior [ RunTime:0.001575s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001983s ]
+
+[ 2017-05-04T12:36:26+08:00 ] ::1 /ehview/index.php?m=Home&c=Video&a=video&id=3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: Run Common\Behavior\InitHookBehavior [ RunTime:0.002296s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002824s ]
+
+[ 2017-05-04T12:41:20+08:00 ] ::1 /ehview/index.php?m=Home&c=Video&a=video&id=3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: Run Common\Behavior\InitHookBehavior [ RunTime:0.002486s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003053s ]
+
+[ 2017-05-04T12:41:46+08:00 ] ::1 /ehview/index.php?m=Home&c=Video&a=video&id=3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: Run Common\Behavior\InitHookBehavior [ RunTime:0.002355s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002845s ]
+
+[ 2017-05-04T12:42:27+08:00 ] ::1 /ehview/index.php?m=Home&c=Video&a=video&id=3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: Run Common\Behavior\InitHookBehavior [ RunTime:0.002532s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003197s ]
+
+[ 2017-05-04T12:42:28+08:00 ] ::1 /ehview/index.php?m=Home&c=Video&a=video&id=3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: Run Common\Behavior\InitHookBehavior [ RunTime:0.001613s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002029s ]
+
+[ 2017-05-04T12:42:30+08:00 ] ::1 /ehview/index.php?m=Home&c=Video&a=video&id=3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: Run Common\Behavior\InitHookBehavior [ RunTime:0.001600s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002022s ]
+
+[ 2017-05-04T12:42:30+08:00 ] ::1 /ehview/index.php?m=Home&c=Video&a=video&id=3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: Run Common\Behavior\InitHookBehavior [ RunTime:0.001970s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002516s ]
+
+[ 2017-05-04T12:42:30+08:00 ] ::1 /ehview/index.php?m=Home&c=Video&a=video&id=3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: Run Common\Behavior\InitHookBehavior [ RunTime:0.001713s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002177s ]
+
+[ 2017-05-04T12:42:31+08:00 ] ::1 /ehview/index.php?m=Home&c=Video&a=video&id=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: Run Common\Behavior\InitHookBehavior [ RunTime:0.001775s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002209s ]
+
+[ 2017-05-04T12:44:04+08:00 ] ::1 /ehview/index.php?m=Home&c=Video&a=video&id=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: Run Common\Behavior\InitHookBehavior [ RunTime:0.002136s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002617s ]
+
+[ 2017-05-04T12:44:54+08:00 ] ::1 /ehview/index.php?m=Home&c=Video&a=video&id=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: Run Common\Behavior\InitHookBehavior [ RunTime:0.001749s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002226s ]
+
+[ 2017-05-04T12:45:12+08:00 ] ::1 /ehview/index.php?m=Home&c=Video&a=video&id=3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: Run Common\Behavior\InitHookBehavior [ RunTime:0.001901s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002349s ]
+
+[ 2017-05-04T12:45:16+08:00 ] ::1 /ehview/index.php?m=Home&c=Video&a=video&id=2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: Run Common\Behavior\InitHookBehavior [ RunTime:0.001672s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002113s ]
+
+[ 2017-05-04T12:46:52+08:00 ] ::1 /ehview/index.php?m=Home&c=Video&a=video&id=2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: Run Common\Behavior\InitHookBehavior [ RunTime:0.002188s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002671s ]
+
+[ 2017-05-04T12:47:15+08:00 ] ::1 /ehview/index.php?m=Home&c=Video&a=video&id=2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: Run Common\Behavior\InitHookBehavior [ RunTime:0.002301s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002855s ]
+
+[ 2017-05-04T12:47:26+08:00 ] ::1 /ehview/index.php?m=Home&c=Video&a=video&id=2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: Run Common\Behavior\InitHookBehavior [ RunTime:0.002726s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003399s ]
+
+[ 2017-05-04T12:47:31+08:00 ] ::1 /ehview/index.php?m=Home&c=Video&a=video&id=2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: Run Common\Behavior\InitHookBehavior [ RunTime:0.001721s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002375s ]
+
+[ 2017-05-04T12:47:32+08:00 ] ::1 /ehview/index.php?m=Home&c=Video&a=video&id=2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: Run Common\Behavior\InitHookBehavior [ RunTime:0.001624s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002051s ]
+
+[ 2017-05-04T12:47:41+08:00 ] ::1 /ehview/index.php?m=Home&c=Video&a=video&id=2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: Run Common\Behavior\InitHookBehavior [ RunTime:0.001674s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002137s ]
+
+[ 2017-05-04T12:47:54+08:00 ] ::1 /ehview/index.php?m=Home&c=Video&a=video&id=2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: Run Common\Behavior\InitHookBehavior [ RunTime:0.002554s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003219s ]
+
+[ 2017-05-04T12:48:01+08:00 ] ::1 /ehview/index.php?m=Home&c=Video&a=video&id=2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: Run Common\Behavior\InitHookBehavior [ RunTime:0.002423s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002923s ]
+
+[ 2017-05-04T12:48:01+08:00 ] ::1 /ehview/index.php?m=Home&c=Video&a=video&id=2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: Run Common\Behavior\InitHookBehavior [ RunTime:0.002158s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002631s ]
+
+[ 2017-05-04T12:48:02+08:00 ] ::1 /ehview/index.php?m=Home&c=Video&a=video&id=2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: Run Common\Behavior\InitHookBehavior [ RunTime:0.001794s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002233s ]
+
+[ 2017-05-04T12:48:16+08:00 ] ::1 /ehview/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: Run Common\Behavior\InitHookBehavior [ RunTime:0.001723s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002191s ]
+
+[ 2017-05-04T12:48:18+08:00 ] ::1 /ehview/index.php?m=Home&c=Article&a=index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: Run Common\Behavior\InitHookBehavior [ RunTime:0.002263s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002758s ]
+
+[ 2017-05-04T12:48:21+08:00 ] ::1 /ehview/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: Run Common\Behavior\InitHookBehavior [ RunTime:0.001705s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002149s ]
+
+[ 2017-05-04T12:48:22+08:00 ] ::1 /ehview/index.php?m=Home&c=Video&a=index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: Run Common\Behavior\InitHookBehavior [ RunTime:0.001846s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002291s ]
+
+[ 2017-05-04T12:48:23+08:00 ] ::1 /ehview/index.php?m=Home&c=Video&a=video&id=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: Run Common\Behavior\InitHookBehavior [ RunTime:0.001676s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002117s ]
+
+[ 2017-05-04T12:48:43+08:00 ] ::1 /ehview/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: Run Common\Behavior\InitHookBehavior [ RunTime:0.001626s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002052s ]
+
+[ 2017-05-04T12:48:43+08:00 ] ::1 /ehview/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: Run Common\Behavior\InitHookBehavior [ RunTime:0.001751s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002421s ]
+
+[ 2017-05-04T12:48:46+08:00 ] ::1 /ehview/index.php?m=Home&c=Video&a=video&id=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: Run Common\Behavior\InitHookBehavior [ RunTime:0.001654s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002074s ]
+
+[ 2017-05-04T12:52:01+08:00 ] ::1 /ehview/index.php?m=Home&c=Video&a=video&id=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: Run Common\Behavior\InitHookBehavior [ RunTime:0.002112s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002610s ]
+
+[ 2017-05-04T12:52:27+08:00 ] ::1 /ehview/index.php?m=Home&c=Video&a=video&id=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: Run Common\Behavior\InitHookBehavior [ RunTime:0.002210s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002723s ]
+
+[ 2017-05-04T12:54:22+08:00 ] ::1 /ehview/index.php?m=Home&c=Video&a=video&id=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: Run Common\Behavior\InitHookBehavior [ RunTime:0.002477s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003137s ]
+
+[ 2017-05-04T12:55:42+08:00 ] ::1 /ehview/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: Run Common\Behavior\InitHookBehavior [ RunTime:0.001803s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002333s ]
+
+[ 2017-05-04T12:55:45+08:00 ] ::1 /ehview/index.php?m=Home&c=About&a=index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: Run Common\Behavior\InitHookBehavior [ RunTime:0.001735s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002174s ]
+
+[ 2017-05-04T12:55:48+08:00 ] ::1 /ehview/index.php?m=Home&c=Article&a=index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: Run Common\Behavior\InitHookBehavior [ RunTime:0.002472s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002973s ]
+
+[ 2017-05-04T12:55:52+08:00 ] ::1 /ehview/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: Run Common\Behavior\InitHookBehavior [ RunTime:0.001671s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002111s ]
+
+[ 2017-05-04T12:55:55+08:00 ] ::1 /ehview/index.php?m=Home&c=Article&a=index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: Run Common\Behavior\InitHookBehavior [ RunTime:0.001646s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002078s ]
+
+[ 2017-05-04T12:56:01+08:00 ] ::1 /ehview/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: Run Common\Behavior\InitHookBehavior [ RunTime:0.001707s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002162s ]
+
+[ 2017-05-04T12:56:11+08:00 ] ::1 /ehview/index.php?m=Home&c=Contact&a=index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: Run Common\Behavior\InitHookBehavior [ RunTime:0.001697s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002147s ]
+
+[ 2017-05-04T12:56:16+08:00 ] ::1 /ehview/index.php?m=Home&c=Video&a=index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: Run Common\Behavior\InitHookBehavior [ RunTime:0.001785s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002222s ]
+
+[ 2017-05-04T12:56:19+08:00 ] ::1 /ehview/index.php?m=Home&c=Article&a=index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: Run Common\Behavior\InitHookBehavior [ RunTime:0.001740s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002185s ]
+
+[ 2017-05-04T12:58:42+08:00 ] ::1 /ehview/index.php?m=Home&c=Article&a=index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: Run Common\Behavior\InitHookBehavior [ RunTime:0.002604s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003275s ]
+
+[ 2017-05-04T12:58:48+08:00 ] ::1 /ehview/index.php?m=Home&c=video&a=index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: Run Common\Behavior\InitHookBehavior [ RunTime:0.002196s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002690s ]
+
+[ 2017-05-04T12:58:50+08:00 ] ::1 /ehview/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: Run Common\Behavior\InitHookBehavior [ RunTime:0.001724s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002165s ]
+
+[ 2017-05-04T13:11:27+08:00 ] ::1 /ehview/index.php?m=Home&c=About&a=index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: Run Common\Behavior\InitHookBehavior [ RunTime:0.002438s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003031s ]
+
+[ 2017-05-04T13:11:36+08:00 ] ::1 /ehview/index.php?m=Home&c=Article&a=index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: Run Common\Behavior\InitHookBehavior [ RunTime:0.001625s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002040s ]
+
+[ 2017-05-04T13:11:38+08:00 ] ::1 /ehview/index.php?m=Home&c=Contact&a=index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: Run Common\Behavior\InitHookBehavior [ RunTime:0.001674s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002113s ]
+
+[ 2017-05-04T13:12:12+08:00 ] ::1 /ehview/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: Run Common\Behavior\InitHookBehavior [ RunTime:0.001677s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002115s ]
+
+[ 2017-05-04T13:25:35+08:00 ] ::1 /ehview/index.php?m=Home&c=Video&a=index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: Run Common\Behavior\InitHookBehavior [ RunTime:0.002307s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002839s ]
+
+[ 2017-05-04T13:25:39+08:00 ] ::1 /ehview/index.php?m=Home&c=Video&a=video&id=13
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: Run Common\Behavior\InitHookBehavior [ RunTime:0.001920s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002363s ]
+
+[ 2017-05-04T13:25:47+08:00 ] ::1 /ehview/index.php?m=Home&c=Video&a=video&id=9
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: Run Common\Behavior\InitHookBehavior [ RunTime:0.001672s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002112s ]
+
+[ 2017-05-04T14:11:29+08:00 ] ::1 /ehview/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: Run Common\Behavior\InitHookBehavior [ RunTime:0.002444s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003085s ]
+
+[ 2017-05-04T14:11:32+08:00 ] ::1 /ehview/index.php/Admin/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: Run Common\Behavior\InitHookBehavior [ RunTime:0.001760s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002163s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000539s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000636s ]
+
+[ 2017-05-04T14:11:32+08:00 ] ::1 /ehview/index.php?m=Admin&c=Public&a=login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: Run Common\Behavior\InitHookBehavior [ RunTime:0.001584s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002004s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000530s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000625s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000247s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000347s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.059417s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.059518s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000430s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000498s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000670s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000742s ]
+
+[ 2017-05-04T14:11:32+08:00 ] ::1 /ehview/index.php?m=Admin&c=Public&a=verify
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: Run Common\Behavior\InitHookBehavior [ RunTime:0.002334s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002886s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000686s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000773s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000836s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000942s ]
+
+[ 2017-05-04T14:11:39+08:00 ] ::1 /ehview/index.php?m=Admin&c=Public&a=checkLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: Run Common\Behavior\InitHookBehavior [ RunTime:0.001838s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002340s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000647s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000726s ]
+SQL: SHOW COLUMNS FROM `eh_user` [ RunTime:0.008158s ]
+SQL: SELECT * FROM `eh_user` WHERE `account` = 'admin' AND `status` > 0 LIMIT 1   [ RunTime:0.001186s ]
+SQL: UPDATE `eh_user` SET `last_login_time`=1493878299,`login_count`=login_count+1,`last_login_ip`='0.0.0.0' WHERE `id` = 1 [ RunTime:0.002981s ]
+SQL: SHOW COLUMNS FROM `eh_syslogs` [ RunTime:0.025790s ]
+SQL: INSERT INTO `eh_syslogs` (`modulename`,`actionname`,`opname`,`message`,`username`,`userid`,`userip`,`create_time`) VALUES ('公共模块','用户登录','用户登录','成功','管理员(admin)',1,'0.0.0.0',1493878299) [ RunTime:0.000399s ]
+
+[ 2017-05-04T14:11:39+08:00 ] ::1 /ehview/index.php?m=Admin&c=Index&a=index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: Run Common\Behavior\InitHookBehavior [ RunTime:0.001570s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001981s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000495s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000570s ]
+SQL: SHOW COLUMNS FROM `eh_group` [ RunTime:0.000971s ]
+SQL: SELECT * FROM `eh_group` WHERE `status` = 1 AND `show` = 1 ORDER BY sort asc  [ RunTime:0.000388s ]
+SQL: SHOW COLUMNS FROM `eh_node` [ RunTime:0.012987s ]
+SQL: SELECT `id`,`name`,`group_id`,`title`,`remark`,`icon` FROM `eh_node` WHERE `level` = 2 AND `status` = 1 AND `pid` = 1 ORDER BY sort asc  [ RunTime:0.000710s ]
+NOTIC: [8] Undefined index: 6 E:\Studio\PHPApplication\ehview\App\Admin\Controller\IndexController.class.php 第 44 行.
+NOTIC: [2] Invalid argument supplied for foreach() E:\Studio\PHPApplication\ehview\App\Admin\Controller\IndexController.class.php 第 44 行.
+NOTIC: [8] Undefined index: 6 E:\Studio\PHPApplication\ehview\App\Admin\Controller\IndexController.class.php 第 60 行.
+NOTIC: [8] Undefined index: 5 E:\Studio\PHPApplication\ehview\App\Admin\Controller\IndexController.class.php 第 44 行.
+NOTIC: [2] Invalid argument supplied for foreach() E:\Studio\PHPApplication\ehview\App\Admin\Controller\IndexController.class.php 第 44 行.
+NOTIC: [8] Undefined index: 5 E:\Studio\PHPApplication\ehview\App\Admin\Controller\IndexController.class.php 第 60 行.
+SQL: SHOW COLUMNS FROM `eh_addons` [ RunTime:0.008407s ]
+SQL: SELECT `title`,`name` FROM `eh_addons` WHERE ( status=1 AND has_adminlist=1 )  [ RunTime:0.000420s ]
+SQL: SHOW COLUMNS FROM `eh_syslogs` [ RunTime:0.020893s ]
+SQL: SELECT * FROM `eh_syslogs` ORDER BY id desc LIMIT 10   [ RunTime:0.000572s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000207s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000291s ]
+NOTIC: [8] Undefined index: hassub E:\Studio\PHPApplication\ehview\Runtime\App\Cache\Admin\9df924d9a2d217daa77a359c5bee0c33.php 第 208 行.
+NOTIC: [8] Undefined index: hassub E:\Studio\PHPApplication\ehview\Runtime\App\Cache\Admin\9df924d9a2d217daa77a359c5bee0c33.php 第 208 行.
+NOTIC: [8] Undefined index: hassub E:\Studio\PHPApplication\ehview\Runtime\App\Cache\Admin\9df924d9a2d217daa77a359c5bee0c33.php 第 208 行.
+NOTIC: [8] Undefined index: hassub E:\Studio\PHPApplication\ehview\Runtime\App\Cache\Admin\9df924d9a2d217daa77a359c5bee0c33.php 第 208 行.
+NOTIC: [8] Undefined index: hassub E:\Studio\PHPApplication\ehview\Runtime\App\Cache\Admin\9df924d9a2d217daa77a359c5bee0c33.php 第 208 行.
+NOTIC: [8] Undefined index: hassub E:\Studio\PHPApplication\ehview\Runtime\App\Cache\Admin\9df924d9a2d217daa77a359c5bee0c33.php 第 208 行.
+NOTIC: [8] Undefined index: hassub E:\Studio\PHPApplication\ehview\Runtime\App\Cache\Admin\9df924d9a2d217daa77a359c5bee0c33.php 第 208 行.
+NOTIC: [8] Undefined index: hassub E:\Studio\PHPApplication\ehview\Runtime\App\Cache\Admin\9df924d9a2d217daa77a359c5bee0c33.php 第 208 行.
+NOTIC: [8] Undefined index: hassub E:\Studio\PHPApplication\ehview\Runtime\App\Cache\Admin\9df924d9a2d217daa77a359c5bee0c33.php 第 208 行.
+NOTIC: [8] Undefined index: hassub E:\Studio\PHPApplication\ehview\Runtime\App\Cache\Admin\9df924d9a2d217daa77a359c5bee0c33.php 第 208 行.
+NOTIC: [8] Undefined index: hassub E:\Studio\PHPApplication\ehview\Runtime\App\Cache\Admin\9df924d9a2d217daa77a359c5bee0c33.php 第 208 行.
+NOTIC: [8] Undefined index: hassub E:\Studio\PHPApplication\ehview\Runtime\App\Cache\Admin\9df924d9a2d217daa77a359c5bee0c33.php 第 208 行.
+NOTIC: [8] Undefined index: hassub E:\Studio\PHPApplication\ehview\Runtime\App\Cache\Admin\9df924d9a2d217daa77a359c5bee0c33.php 第 208 行.
+NOTIC: [8] Undefined index: icon E:\Studio\PHPApplication\ehview\Runtime\App\Cache\Admin\9df924d9a2d217daa77a359c5bee0c33.php 第 211 行.
+NOTIC: [8] Undefined index: icon E:\Studio\PHPApplication\ehview\Runtime\App\Cache\Admin\9df924d9a2d217daa77a359c5bee0c33.php 第 211 行.
+NOTIC: [8] Undefined index: icon E:\Studio\PHPApplication\ehview\Runtime\App\Cache\Admin\9df924d9a2d217daa77a359c5bee0c33.php 第 211 行.
+NOTIC: [8] Undefined index: hassub E:\Studio\PHPApplication\ehview\Runtime\App\Cache\Admin\9df924d9a2d217daa77a359c5bee0c33.php 第 208 行.
+SQL: SHOW COLUMNS FROM `eh_role_user` [ RunTime:0.008233s ]
+SQL: SELECT * FROM `eh_role_user` WHERE ( user_id=1 ) LIMIT 1   [ RunTime:0.000473s ]
+SQL: SHOW COLUMNS FROM `eh_role` [ RunTime:0.007888s ]
+SQL: SELECT `id`,`name` FROM `eh_role`  [ RunTime:0.000362s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.110265s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.110338s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000483s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000548s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000896s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000976s ]
+
+[ 2017-05-04T14:11:49+08:00 ] ::1 /ehview/index.php?m=Admin&c=Config&a=index&_=1493878300026
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: Run Common\Behavior\InitHookBehavior [ RunTime:0.002806s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003557s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000670s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000779s ]
+SQL: SHOW COLUMNS FROM `eh_config` [ RunTime:0.008882s ]
+NOTIC: [8] Undefined variable: order E:\Studio\PHPApplication\ehview\App\Admin\Controller\CommonController.class.php 第 177 行.
+NOTIC: [8] Undefined variable: sort E:\Studio\PHPApplication\ehview\App\Admin\Controller\CommonController.class.php 第 187 行.
+SQL: SELECT COUNT(*) AS tp_count FROM `eh_config` WHERE `status` = 1 LIMIT 1   [ RunTime:0.002564s ]
+NOTIC: [8] Undefined variable: listRows E:\Studio\PHPApplication\ehview\App\Admin\Controller\CommonController.class.php 第 198 行.
+NOTIC: [8] Undefined index: pageNum E:\Studio\PHPApplication\ehview\App\Admin\Controller\CommonController.class.php 第 204 行.
+SQL: SELECT * FROM `eh_config` WHERE `status` = 1 ORDER BY `id` desc LIMIT 0,10   [ RunTime:0.000547s ]
+NOTIC: [2] Division by zero E:\Studio\PHPApplication\ehview\ThinkPHP\Library\Think\Page.class.php 第 84 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000106s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000190s ]
+NOTIC: [8] Undefined index: group E:\Studio\PHPApplication\ehview\Runtime\App\Cache\Admin\cde95318103d8265d44ce02d47932406.php 第 3 行.
+NOTIC: [8] Undefined index: name E:\Studio\PHPApplication\ehview\Runtime\App\Cache\Admin\cde95318103d8265d44ce02d47932406.php 第 4 行.
+NOTIC: [8] Undefined index: orderField E:\Studio\PHPApplication\ehview\Runtime\App\Cache\Admin\cde95318103d8265d44ce02d47932406.php 第 5 行.
+NOTIC: [8] Undefined index: orderDirection E:\Studio\PHPApplication\ehview\Runtime\App\Cache\Admin\cde95318103d8265d44ce02d47932406.php 第 6 行.
+NOTIC: [8] Undefined index: name E:\Studio\PHPApplication\ehview\Runtime\App\Cache\Admin\cde95318103d8265d44ce02d47932406.php 第 17 行.
+NOTIC: [8] Undefined index: group E:\Studio\PHPApplication\ehview\Runtime\App\Cache\Admin\cde95318103d8265d44ce02d47932406.php 第 21 行.
+NOTIC: [8] Undefined index: group E:\Studio\PHPApplication\ehview\Runtime\App\Cache\Admin\cde95318103d8265d44ce02d47932406.php 第 21 行.
+NOTIC: [8] Undefined index: group E:\Studio\PHPApplication\ehview\Runtime\App\Cache\Admin\cde95318103d8265d44ce02d47932406.php 第 22 行.
+NOTIC: [8] Undefined index: group E:\Studio\PHPApplication\ehview\Runtime\App\Cache\Admin\cde95318103d8265d44ce02d47932406.php 第 23 行.
+NOTIC: [8] Undefined index: group E:\Studio\PHPApplication\ehview\Runtime\App\Cache\Admin\cde95318103d8265d44ce02d47932406.php 第 25 行.
+NOTIC: [8] Undefined index: group E:\Studio\PHPApplication\ehview\Runtime\App\Cache\Admin\cde95318103d8265d44ce02d47932406.php 第 25 行.
+NOTIC: [8] Undefined index: group E:\Studio\PHPApplication\ehview\Runtime\App\Cache\Admin\cde95318103d8265d44ce02d47932406.php 第 25 行.
+NOTIC: [8] Undefined index: group E:\Studio\PHPApplication\ehview\Runtime\App\Cache\Admin\cde95318103d8265d44ce02d47932406.php 第 25 行.
+NOTIC: [8] Undefined index: group E:\Studio\PHPApplication\ehview\Runtime\App\Cache\Admin\cde95318103d8265d44ce02d47932406.php 第 25 行.
+NOTIC: [8] Undefined index: group E:\Studio\PHPApplication\ehview\Runtime\App\Cache\Admin\cde95318103d8265d44ce02d47932406.php 第 34 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.066684s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.066757s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000462s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000521s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000793s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000869s ]
+
+[ 2017-05-04T14:11:54+08:00 ] ::1 /ehview/index.php?m=Admin&c=Role&a=index&_=1493878300027
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000038s ]
+INFO: Run Common\Behavior\InitHookBehavior [ RunTime:0.002688s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003454s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000665s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000797s ]
+SQL: SHOW COLUMNS FROM `eh_role` [ RunTime:0.001222s ]
+NOTIC: [8] Undefined index: name E:\Studio\PHPApplication\ehview\App\Admin\Controller\RoleController.class.php 第 7 行.
+NOTIC: [8] Undefined variable: order E:\Studio\PHPApplication\ehview\App\Admin\Controller\CommonController.class.php 第 177 行.
+NOTIC: [8] Undefined variable: sort E:\Studio\PHPApplication\ehview\App\Admin\Controller\CommonController.class.php 第 187 行.
+SQL: SELECT COUNT(*) AS tp_count FROM `eh_role` WHERE `name` LIKE '%%' LIMIT 1   [ RunTime:0.000341s ]
+NOTIC: [8] Undefined variable: listRows E:\Studio\PHPApplication\ehview\App\Admin\Controller\CommonController.class.php 第 198 行.
+NOTIC: [8] Undefined index: pageNum E:\Studio\PHPApplication\ehview\App\Admin\Controller\CommonController.class.php 第 204 行.
+SQL: SELECT * FROM `eh_role` WHERE `name` LIKE '%%' ORDER BY `id` desc LIMIT 0,10   [ RunTime:0.000410s ]
+NOTIC: [2] Division by zero E:\Studio\PHPApplication\ehview\ThinkPHP\Library\Think\Page.class.php 第 84 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000103s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000183s ]
+NOTIC: [8] Undefined index: name E:\Studio\PHPApplication\ehview\Runtime\App\Cache\Admin\a0a7524eab22c3693baad75fbdbe707e.php 第 4 行.
+NOTIC: [8] Undefined index: orderField E:\Studio\PHPApplication\ehview\Runtime\App\Cache\Admin\a0a7524eab22c3693baad75fbdbe707e.php 第 5 行.
+NOTIC: [8] Undefined index: orderDirection E:\Studio\PHPApplication\ehview\Runtime\App\Cache\Admin\a0a7524eab22c3693baad75fbdbe707e.php 第 6 行.
+NOTIC: [8] Undefined index: name E:\Studio\PHPApplication\ehview\Runtime\App\Cache\Admin\a0a7524eab22c3693baad75fbdbe707e.php 第 15 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.055071s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.055161s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000426s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000485s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000758s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000820s ]
+
+[ 2017-05-04T14:11:58+08:00 ] ::1 /ehview/index.php/Admin/Role/access/groupId/2?_=1493878300028
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: Run Common\Behavior\InitHookBehavior [ RunTime:0.001947s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002436s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000529s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000610s ]
+SQL: SHOW COLUMNS FROM `eh_node` [ RunTime:0.001054s ]
+SQL: SELECT * FROM `eh_node`  [ RunTime:0.000918s ]
+SQL: SELECT * FROM `eh_node` WHERE `pid` = 0 LIMIT 1   [ RunTime:0.000525s ]
+SQL: SHOW COLUMNS FROM `eh_role` [ RunTime:0.000759s ]
+SQL: SHOW COLUMNS FROM `eh_access` [ RunTime:0.008480s ]
+SQL: SELECT `node_id` FROM `eh_access` WHERE `role_id` = 2  [ RunTime:0.000445s ]
+SQL: SELECT `id`,`title`,`name` FROM `eh_node` WHERE `id` IN ('295','294','1','296','297','298','299','500','504')  [ RunTime:0.000453s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000078s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000166s ]
+NOTIC: [8] Undefined index: sub_node E:\Studio\PHPApplication\ehview\Runtime\App\Cache\Admin\963ca0a54a6e8dd745fd284ddbcb2526.php 第 51 行.
+NOTIC: [8] Undefined index: sub_node E:\Studio\PHPApplication\ehview\Runtime\App\Cache\Admin\963ca0a54a6e8dd745fd284ddbcb2526.php 第 51 行.
+NOTIC: [8] Undefined index: sub_node E:\Studio\PHPApplication\ehview\Runtime\App\Cache\Admin\963ca0a54a6e8dd745fd284ddbcb2526.php 第 51 行.
+NOTIC: [8] Undefined index: sub_node E:\Studio\PHPApplication\ehview\Runtime\App\Cache\Admin\963ca0a54a6e8dd745fd284ddbcb2526.php 第 51 行.
+NOTIC: [8] Undefined index: sub_node E:\Studio\PHPApplication\ehview\Runtime\App\Cache\Admin\963ca0a54a6e8dd745fd284ddbcb2526.php 第 51 行.
+NOTIC: [8] Undefined index: sub_node E:\Studio\PHPApplication\ehview\Runtime\App\Cache\Admin\963ca0a54a6e8dd745fd284ddbcb2526.php 第 51 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.067080s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.067171s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000449s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000512s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000720s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000791s ]
+
+[ 2017-05-04T14:12:36+08:00 ] ::1 /ehview/index.php?m=Admin&c=Role&a=index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: Run Common\Behavior\InitHookBehavior [ RunTime:0.001701s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002150s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000539s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000619s ]
+SQL: SHOW COLUMNS FROM `eh_role` [ RunTime:0.000881s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `eh_role` WHERE `name` LIKE '%%' LIMIT 1   [ RunTime:0.000457s ]
+NOTIC: [8] Undefined variable: listRows E:\Studio\PHPApplication\ehview\App\Admin\Controller\CommonController.class.php 第 198 行.
+SQL: SELECT * FROM `eh_role` WHERE `name` LIKE '%%' ORDER BY `id` desc LIMIT 0,10   [ RunTime:0.000471s ]
+NOTIC: [2] Division by zero E:\Studio\PHPApplication\ehview\ThinkPHP\Library\Think\Page.class.php 第 84 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000097s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000186s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012864s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012954s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000469s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000530s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000693s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000759s ]
+
+[ 2017-05-04T14:12:39+08:00 ] ::1 /ehview/index.php?m=Admin&c=Config&a=group&_=1493878300029
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000038s ]
+INFO: Run Common\Behavior\InitHookBehavior [ RunTime:0.002539s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003219s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000604s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000720s ]
+SQL: SHOW COLUMNS FROM `eh_config` [ RunTime:0.000950s ]
+SQL: SELECT `id`,`name`,`title`,`extra`,`value`,`remark`,`type` FROM `eh_config` WHERE `status` = 1 AND `group` = 1 ORDER BY sort  [ RunTime:0.000462s ]
+SQL: SELECT `id`,`name`,`title`,`extra`,`value`,`remark`,`type` FROM `eh_config` WHERE `status` = 1 AND `group` = 2 ORDER BY sort  [ RunTime:0.000287s ]
+SQL: SELECT `id`,`name`,`title`,`extra`,`value`,`remark`,`type` FROM `eh_config` WHERE `status` = 1 AND `group` = 3 ORDER BY sort  [ RunTime:0.000301s ]
+SQL: SELECT `id`,`name`,`title`,`extra`,`value`,`remark`,`type` FROM `eh_config` WHERE `status` = 1 AND `group` = 4 ORDER BY sort  [ RunTime:0.000390s ]
+SQL: SELECT `id`,`name`,`title`,`extra`,`value`,`remark`,`type` FROM `eh_config` WHERE `status` = 1 AND `group` = 5 ORDER BY sort  [ RunTime:0.000311s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000086s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000168s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.050220s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.050305s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000427s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000487s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000753s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000824s ]
+
+[ 2017-05-04T14:13:00+08:00 ] ::1 /ehview/index.php/Admin/Config/save/navTabId/Config
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: Run Common\Behavior\InitHookBehavior [ RunTime:0.002013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002643s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000751s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000902s ]
+SQL: SHOW COLUMNS FROM `eh_config` [ RunTime:0.001041s ]
+SQL: UPDATE `eh_config` SET `value`='一哈视野' WHERE `name` = 'WEB_SITE_TITLE' [ RunTime:0.000393s ]
+SQL: UPDATE `eh_config` SET `value`='一哈视野' WHERE `name` = 'WEB_SITE_DESCRIPTION' [ RunTime:0.000322s ]
+SQL: UPDATE `eh_config` SET `value`='1' WHERE `name` = 'WEB_SITE_CLOSE' [ RunTime:0.000339s ]
+SQL: UPDATE `eh_config` SET `value`='一哈视野' WHERE `name` = 'WEB_SITE_KEYWORD' [ RunTime:0.000341s ]
+SQL: UPDATE `eh_config` SET `value`='123123' WHERE `name` = 'WEB_SITE_ICP' [ RunTime:0.000357s ]
+SQL: UPDATE `eh_config` SET `value`='呵呵，暂时没有内容哦！！' WHERE `name` = 'NO_BODY_TLE' [ RunTime:0.000319s ]
+SQL: UPDATE `eh_config` SET `value`='10' WHERE `name` = 'LIST_ROWS' [ RunTime:0.000229s ]
+SQL: UPDATE `eh_config` SET `value`='管理员,测试,admin,垃圾' WHERE `name` = 'USER_NAME_BAOLIU' [ RunTime:0.000313s ]
+SQL: UPDATE `eh_config` SET `value`='2' WHERE `name` = 'USER_REG_TIME' [ RunTime:0.000275s ]
+SQL: UPDATE `eh_config` SET `value`='<span style=\"color:#009900;\">请点击以下链接找回密码，如无反应，请将链接地址复制到浏览器中打开(下次登录前有效)</span>' WHERE `name` = 'USER_RESPASS' [ RunTime:0.000365s ]
+SQL: UPDATE `eh_config` SET `value`='1' WHERE `name` = 'USER_ALLOW_REGISTER' [ RunTime:0.000259s ]
+SQL: UPDATE `eh_config` SET `value`='./Uploads/' WHERE `name` = 'PIC_FILE_PATH' [ RunTime:0.000298s ]
+SQL: UPDATE `eh_config` SET `value`='1' WHERE `name` = 'VERIFY_OPEN' [ RunTime:0.000305s ]
+SQL: UPDATE `eh_config` SET `value`='1' WHERE `name` = 'VERIFY_TYPE' [ RunTime:0.000293s ]
+SQL: UPDATE `eh_config` SET `value`='0' WHERE `name` = 'SHOW_PAGE_TRACE' [ RunTime:0.000308s ]
+SQL: UPDATE `eh_config` SET `value`='0:数字\r\n1:字符\r\n2:文本\r\n3:数组\r\n4:枚举\r\n5:富文本\r\n6:密码' WHERE `name` = 'CONFIG_TYPE_LIST' [ RunTime:0.000292s ]
+SQL: UPDATE `eh_config` SET `value`='./Data/' WHERE `name` = 'DATA_BACKUP_PATH' [ RunTime:0.000298s ]
+SQL: UPDATE `eh_config` SET `value`='1:视图\r\n2:控制器' WHERE `name` = 'HOOKS_TYPE' [ RunTime:0.000353s ]
+SQL: UPDATE `eh_config` SET `value`='20971520' WHERE `name` = 'DATA_BACKUP_PART_SIZE' [ RunTime:0.000315s ]
+SQL: UPDATE `eh_config` SET `value`='1' WHERE `name` = 'DATA_BACKUP_COMPRESS' [ RunTime:0.000299s ]
+SQL: UPDATE `eh_config` SET `value`='9' WHERE `name` = 'DATA_BACKUP_COMPRESS_LEVEL' [ RunTime:0.000309s ]
+SQL: UPDATE `eh_config` SET `value`='1' WHERE `name` = 'DEVELOP_MODE' [ RunTime:0.000282s ]
+SQL: UPDATE `eh_config` SET `value`='' WHERE `name` = 'ADMIN_ALLOW_IP' [ RunTime:0.000363s ]
+SQL: UPDATE `eh_config` SET `value`='1:基本\r\n2:内容\r\n3:用户\r\n4:系统\r\n5:邮件' WHERE `name` = 'CONFIG_GROUP_LIST' [ RunTime:0.000314s ]
+SQL: UPDATE `eh_config` SET `value`='1' WHERE `name` = 'MAIL_TYPE' [ RunTime:0.000285s ]
+SQL: UPDATE `eh_config` SET `value`='' WHERE `name` = 'MAIL_SMTP_HOST' [ RunTime:0.000300s ]
+SQL: UPDATE `eh_config` SET `value`='25' WHERE `name` = 'MAIL_SMTP_PORT' [ RunTime:0.000318s ]
+SQL: UPDATE `eh_config` SET `value`='admin' WHERE `name` = 'MAIL_SMTP_USER' [ RunTime:0.000326s ]
+SQL: UPDATE `eh_config` SET `value`='admin' WHERE `name` = 'MAIL_SMTP_PASS' [ RunTime:0.000318s ]
+SQL: UPDATE `eh_config` SET `value`='' WHERE `name` = 'MAIL_SMTP_CE' [ RunTime:0.000307s ]
+SQL: UPDATE `eh_config` SET `value`='<a href=\"http://kssoulmate.com\" target=\"_blank\">点击进入</a><span style=\"color:#E53333;\">当您收到这封邮件，表明您已注册成功，以上为您的用户名和密码。。。。祝您生活愉快····</span>' WHERE `name` = 'MAIL_USER_REG' [ RunTime:0.000272s ]
+
+[ 2017-05-04T14:13:00+08:00 ] ::1 /ehview/index.php/Admin/Config/save/navTabId/Config
+SQL: SHOW COLUMNS FROM `eh_syslogs` [ RunTime:0.001037s ]
+SQL: SHOW COLUMNS FROM `eh_node` [ RunTime:0.000890s ]
+SQL: SELECT `title` FROM `eh_node` WHERE `name` = 'Config' AND `level` = 2 LIMIT 1   [ RunTime:0.000362s ]
+SQL: SELECT `title` FROM `eh_node` WHERE `name` = 'save' AND `level` = 3 LIMIT 1   [ RunTime:0.000247s ]
+SQL: INSERT INTO `eh_syslogs` (`modulename`,`actionname`,`opname`,`message`,`username`,`userid`,`userip`,`create_time`) VALUES ('网站设置','save','','网站配置保存成功！','管理员(admin)',1,'0.0.0.0',1493878380) [ RunTime:0.000221s ]
+
+[ 2017-05-04T14:13:01+08:00 ] ::1 /ehview/index.php?m=Admin&c=Config&a=group
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: Run Common\Behavior\InitHookBehavior [ RunTime:0.002264s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002768s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000800s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000909s ]
+SQL: SHOW COLUMNS FROM `eh_config` [ RunTime:0.007751s ]
+SQL: SELECT `type`,`name`,`value` FROM `eh_config` WHERE `status` = 1  [ RunTime:0.000563s ]
+SQL: SELECT `id`,`name`,`title`,`extra`,`value`,`remark`,`type` FROM `eh_config` WHERE `status` = 1 AND `group` = 1 ORDER BY sort  [ RunTime:0.000578s ]
+SQL: SELECT `id`,`name`,`title`,`extra`,`value`,`remark`,`type` FROM `eh_config` WHERE `status` = 1 AND `group` = 2 ORDER BY sort  [ RunTime:0.000373s ]
+SQL: SELECT `id`,`name`,`title`,`extra`,`value`,`remark`,`type` FROM `eh_config` WHERE `status` = 1 AND `group` = 3 ORDER BY sort  [ RunTime:0.000378s ]
+SQL: SELECT `id`,`name`,`title`,`extra`,`value`,`remark`,`type` FROM `eh_config` WHERE `status` = 1 AND `group` = 4 ORDER BY sort  [ RunTime:0.000488s ]
+SQL: SELECT `id`,`name`,`title`,`extra`,`value`,`remark`,`type` FROM `eh_config` WHERE `status` = 1 AND `group` = 5 ORDER BY sort  [ RunTime:0.000420s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000094s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000194s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.016317s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.016394s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000437s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000500s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000691s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000762s ]
+
+[ 2017-05-04T14:13:12+08:00 ] ::1 /ehview/index.php/Admin/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: Run Common\Behavior\InitHookBehavior [ RunTime:0.001649s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002107s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000498s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000574s ]
+SQL: SHOW COLUMNS FROM `eh_group` [ RunTime:0.000936s ]
+SQL: SELECT * FROM `eh_group` WHERE `status` = 1 AND `show` = 1 ORDER BY sort asc  [ RunTime:0.000366s ]
+SQL: SHOW COLUMNS FROM `eh_node` [ RunTime:0.000631s ]
+SQL: SELECT `id`,`name`,`group_id`,`title`,`remark`,`icon` FROM `eh_node` WHERE `level` = 2 AND `status` = 1 AND `pid` = 1 ORDER BY sort asc  [ RunTime:0.000518s ]
+NOTIC: [8] Undefined index: 6 E:\Studio\PHPApplication\ehview\App\Admin\Controller\IndexController.class.php 第 44 行.
+NOTIC: [2] Invalid argument supplied for foreach() E:\Studio\PHPApplication\ehview\App\Admin\Controller\IndexController.class.php 第 44 行.
+NOTIC: [8] Undefined index: 6 E:\Studio\PHPApplication\ehview\App\Admin\Controller\IndexController.class.php 第 60 行.
+NOTIC: [8] Undefined index: 5 E:\Studio\PHPApplication\ehview\App\Admin\Controller\IndexController.class.php 第 44 行.
+NOTIC: [2] Invalid argument supplied for foreach() E:\Studio\PHPApplication\ehview\App\Admin\Controller\IndexController.class.php 第 44 行.
+NOTIC: [8] Undefined index: 5 E:\Studio\PHPApplication\ehview\App\Admin\Controller\IndexController.class.php 第 60 行.
+SQL: SHOW COLUMNS FROM `eh_addons` [ RunTime:0.000643s ]
+SQL: SELECT `title`,`name` FROM `eh_addons` WHERE ( status=1 AND has_adminlist=1 )  [ RunTime:0.000250s ]
+SQL: SHOW COLUMNS FROM `eh_syslogs` [ RunTime:0.021416s ]
+SQL: SELECT * FROM `eh_syslogs` ORDER BY id desc LIMIT 10   [ RunTime:0.000632s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000205s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000283s ]
+NOTIC: [8] Undefined index: hassub E:\Studio\PHPApplication\ehview\Runtime\App\Cache\Admin\9df924d9a2d217daa77a359c5bee0c33.php 第 208 行.
+NOTIC: [8] Undefined index: hassub E:\Studio\PHPApplication\ehview\Runtime\App\Cache\Admin\9df924d9a2d217daa77a359c5bee0c33.php 第 208 行.
+NOTIC: [8] Undefined index: hassub E:\Studio\PHPApplication\ehview\Runtime\App\Cache\Admin\9df924d9a2d217daa77a359c5bee0c33.php 第 208 行.
+NOTIC: [8] Undefined index: hassub E:\Studio\PHPApplication\ehview\Runtime\App\Cache\Admin\9df924d9a2d217daa77a359c5bee0c33.php 第 208 行.
+NOTIC: [8] Undefined index: hassub E:\Studio\PHPApplication\ehview\Runtime\App\Cache\Admin\9df924d9a2d217daa77a359c5bee0c33.php 第 208 行.
+NOTIC: [8] Undefined index: hassub E:\Studio\PHPApplication\ehview\Runtime\App\Cache\Admin\9df924d9a2d217daa77a359c5bee0c33.php 第 208 行.
+NOTIC: [8] Undefined index: hassub E:\Studio\PHPApplication\ehview\Runtime\App\Cache\Admin\9df924d9a2d217daa77a359c5bee0c33.php 第 208 行.
+NOTIC: [8] Undefined index: hassub E:\Studio\PHPApplication\ehview\Runtime\App\Cache\Admin\9df924d9a2d217daa77a359c5bee0c33.php 第 208 行.
+NOTIC: [8] Undefined index: hassub E:\Studio\PHPApplication\ehview\Runtime\App\Cache\Admin\9df924d9a2d217daa77a359c5bee0c33.php 第 208 行.
+NOTIC: [8] Undefined index: hassub E:\Studio\PHPApplication\ehview\Runtime\App\Cache\Admin\9df924d9a2d217daa77a359c5bee0c33.php 第 208 行.
+NOTIC: [8] Undefined index: hassub E:\Studio\PHPApplication\ehview\Runtime\App\Cache\Admin\9df924d9a2d217daa77a359c5bee0c33.php 第 208 行.
+NOTIC: [8] Undefined index: hassub E:\Studio\PHPApplication\ehview\Runtime\App\Cache\Admin\9df924d9a2d217daa77a359c5bee0c33.php 第 208 行.
+NOTIC: [8] Undefined index: hassub E:\Studio\PHPApplication\ehview\Runtime\App\Cache\Admin\9df924d9a2d217daa77a359c5bee0c33.php 第 208 行.
+NOTIC: [8] Undefined index: icon E:\Studio\PHPApplication\ehview\Runtime\App\Cache\Admin\9df924d9a2d217daa77a359c5bee0c33.php 第 211 行.
+NOTIC: [8] Undefined index: icon E:\Studio\PHPApplication\ehview\Runtime\App\Cache\Admin\9df924d9a2d217daa77a359c5bee0c33.php 第 211 行.
+NOTIC: [8] Undefined index: icon E:\Studio\PHPApplication\ehview\Runtime\App\Cache\Admin\9df924d9a2d217daa77a359c5bee0c33.php 第 211 行.
+NOTIC: [8] Undefined index: hassub E:\Studio\PHPApplication\ehview\Runtime\App\Cache\Admin\9df924d9a2d217daa77a359c5bee0c33.php 第 208 行.
+SQL: SHOW COLUMNS FROM `eh_role_user` [ RunTime:0.000930s ]
+SQL: SELECT * FROM `eh_role_user` WHERE ( user_id=1 ) LIMIT 1   [ RunTime:0.000369s ]
+SQL: SHOW COLUMNS FROM `eh_role` [ RunTime:0.000754s ]
+SQL: SELECT `id`,`name` FROM `eh_role`  [ RunTime:0.000333s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.053781s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.053855s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000500s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000565s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001126s ]
+
+[ 2017-05-04T14:13:17+08:00 ] ::1 /ehview/index.php?m=Admin&c=Public&a=logout
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: Run Common\Behavior\InitHookBehavior [ RunTime:0.001676s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002117s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000530s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000614s ]
+SQL: SHOW COLUMNS FROM `eh_syslogs` [ RunTime:0.000832s ]
+SQL: INSERT INTO `eh_syslogs` (`modulename`,`actionname`,`opname`,`message`,`username`,`userid`,`userip`,`create_time`) VALUES ('公共模块','用户退出','用户退出','成功','管理员(admin)',1,'0.0.0.0',1493878397) [ RunTime:0.000206s ]
+
+[ 2017-05-04T14:13:17+08:00 ] ::1 /ehview/index.php?m=Admin&c=Public&a=login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: Run Common\Behavior\InitHookBehavior [ RunTime:0.001610s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002043s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000514s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000594s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000121s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000194s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.030597s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.030690s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000449s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000521s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000694s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000765s ]
+
+[ 2017-05-04T14:13:17+08:00 ] ::1 /ehview/index.php?m=Admin&c=Public&a=verify
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: Run Common\Behavior\InitHookBehavior [ RunTime:0.001687s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002117s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000718s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000886s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000797s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000895s ]
+
+[ 2017-05-04T14:39:56+08:00 ] ::1 /ehview/index.php?m=Admin&c=Config&a=index&_=1493878300030
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: Run Common\Behavior\InitHookBehavior [ RunTime:0.002526s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003056s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000894s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001006s ]
+
+[ 2017-05-04T14:39:56+08:00 ] ::1 /ehview/index.php?m=Admin&c=Config&a=index&group=&name=&orderField=&orderDirection=&pageNum=1&numPerPage=10&_=1493878300031
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: Run Common\Behavior\InitHookBehavior [ RunTime:0.002417s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002962s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000938s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001077s ]
+
+[ 2017-05-04T14:39:56+08:00 ] ::1 /ehview/index.php?m=Admin&c=Public&a=login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: Run Common\Behavior\InitHookBehavior [ RunTime:0.001947s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002419s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000848s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000992s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000133s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000219s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009621s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009740s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000680s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000787s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001073s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001184s ]
+
+[ 2017-05-04T14:39:56+08:00 ] ::1 /ehview/index.php?m=Admin&c=Public&a=login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: Run Common\Behavior\InitHookBehavior [ RunTime:0.002208s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002888s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000575s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000657s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000138s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000219s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009321s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009406s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000484s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000552s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000738s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000822s ]
+
+[ 2017-05-04T14:39:57+08:00 ] ::1 /ehview/index.php?m=Admin&c=Public&a=verify
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: Run Common\Behavior\InitHookBehavior [ RunTime:0.002174s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002651s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000784s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000913s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000811s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000911s ]
+
+[ 2017-05-04T14:40:01+08:00 ] ::1 /ehview/index.php?m=Admin&c=Index&a=index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: Run Common\Behavior\InitHookBehavior [ RunTime:0.001741s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002313s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000517s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000601s ]
+
+[ 2017-05-04T14:40:01+08:00 ] ::1 /ehview/index.php?m=Admin&c=Public&a=login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: Run Common\Behavior\InitHookBehavior [ RunTime:0.001563s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001969s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000497s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000573s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000127s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000200s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008515s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008595s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000425s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000494s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000689s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000762s ]
+
+[ 2017-05-04T14:40:01+08:00 ] ::1 /ehview/index.php?m=Admin&c=Public&a=verify
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: Run Common\Behavior\InitHookBehavior [ RunTime:0.001571s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001986s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000487s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000564s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000903s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001002s ]
+
+[ 2017-05-04T14:40:07+08:00 ] ::1 /ehview/index.php?m=Admin&c=Public&a=checkLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: Run Common\Behavior\InitHookBehavior [ RunTime:0.002278s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002771s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000673s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000752s ]
+SQL: SHOW COLUMNS FROM `eh_user` [ RunTime:0.004613s ]
+SQL: SELECT * FROM `eh_user` WHERE `account` = 'admin' AND `status` > 0 LIMIT 1   [ RunTime:0.000480s ]
+SQL: UPDATE `eh_user` SET `last_login_time`=1493880007,`login_count`=login_count+1,`last_login_ip`='0.0.0.0' WHERE `id` = 1 [ RunTime:0.000311s ]
+SQL: SHOW COLUMNS FROM `eh_syslogs` [ RunTime:0.020193s ]
+SQL: INSERT INTO `eh_syslogs` (`modulename`,`actionname`,`opname`,`message`,`username`,`userid`,`userip`,`create_time`) VALUES ('公共模块','用户登录','用户登录','成功','管理员(admin)',1,'0.0.0.0',1493880007) [ RunTime:0.000325s ]
+
+[ 2017-05-04T14:40:07+08:00 ] ::1 /ehview/index.php?m=Admin&c=Index&a=index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: Run Common\Behavior\InitHookBehavior [ RunTime:0.001594s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002014s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000504s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000583s ]
+SQL: SHOW COLUMNS FROM `eh_group` [ RunTime:0.000800s ]
+SQL: SELECT * FROM `eh_group` WHERE `status` = 1 AND `show` = 1 ORDER BY sort asc  [ RunTime:0.000364s ]
+SQL: SHOW COLUMNS FROM `eh_node` [ RunTime:0.000640s ]
+SQL: SELECT `id`,`name`,`group_id`,`title`,`remark`,`icon` FROM `eh_node` WHERE `level` = 2 AND `status` = 1 AND `pid` = 1 ORDER BY sort asc  [ RunTime:0.000511s ]
+NOTIC: [8] Undefined index: 6 E:\Studio\PHPApplication\ehview\App\Admin\Controller\IndexController.class.php 第 44 行.
+NOTIC: [2] Invalid argument supplied for foreach() E:\Studio\PHPApplication\ehview\App\Admin\Controller\IndexController.class.php 第 44 行.
+NOTIC: [8] Undefined index: 6 E:\Studio\PHPApplication\ehview\App\Admin\Controller\IndexController.class.php 第 60 行.
+NOTIC: [8] Undefined index: 5 E:\Studio\PHPApplication\ehview\App\Admin\Controller\IndexController.class.php 第 44 行.
+NOTIC: [2] Invalid argument supplied for foreach() E:\Studio\PHPApplication\ehview\App\Admin\Controller\IndexController.class.php 第 44 行.
+NOTIC: [8] Undefined index: 5 E:\Studio\PHPApplication\ehview\App\Admin\Controller\IndexController.class.php 第 60 行.
+SQL: SHOW COLUMNS FROM `eh_addons` [ RunTime:0.000588s ]
+SQL: SELECT `title`,`name` FROM `eh_addons` WHERE ( status=1 AND has_adminlist=1 )  [ RunTime:0.000252s ]
+SQL: SHOW COLUMNS FROM `eh_syslogs` [ RunTime:0.000603s ]
+SQL: SELECT * FROM `eh_syslogs` ORDER BY id desc LIMIT 10   [ RunTime:0.000494s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000214s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000289s ]
+NOTIC: [8] Undefined index: hassub E:\Studio\PHPApplication\ehview\Runtime\App\Cache\Admin\9df924d9a2d217daa77a359c5bee0c33.php 第 208 行.
+NOTIC: [8] Undefined index: hassub E:\Studio\PHPApplication\ehview\Runtime\App\Cache\Admin\9df924d9a2d217daa77a359c5bee0c33.php 第 208 行.
+NOTIC: [8] Undefined index: hassub E:\Studio\PHPApplication\ehview\Runtime\App\Cache\Admin\9df924d9a2d217daa77a359c5bee0c33.php 第 208 行.
+NOTIC: [8] Undefined index: hassub E:\Studio\PHPApplication\ehview\Runtime\App\Cache\Admin\9df924d9a2d217daa77a359c5bee0c33.php 第 208 行.
+NOTIC: [8] Undefined index: hassub E:\Studio\PHPApplication\ehview\Runtime\App\Cache\Admin\9df924d9a2d217daa77a359c5bee0c33.php 第 208 行.
+NOTIC: [8] Undefined index: hassub E:\Studio\PHPApplication\ehview\Runtime\App\Cache\Admin\9df924d9a2d217daa77a359c5bee0c33.php 第 208 行.
+NOTIC: [8] Undefined index: hassub E:\Studio\PHPApplication\ehview\Runtime\App\Cache\Admin\9df924d9a2d217daa77a359c5bee0c33.php 第 208 行.
+NOTIC: [8] Undefined index: hassub E:\Studio\PHPApplication\ehview\Runtime\App\Cache\Admin\9df924d9a2d217daa77a359c5bee0c33.php 第 208 行.
+NOTIC: [8] Undefined index: hassub E:\Studio\PHPApplication\ehview\Runtime\App\Cache\Admin\9df924d9a2d217daa77a359c5bee0c33.php 第 208 行.
+NOTIC: [8] Undefined index: hassub E:\Studio\PHPApplication\ehview\Runtime\App\Cache\Admin\9df924d9a2d217daa77a359c5bee0c33.php 第 208 行.
+NOTIC: [8] Undefined index: hassub E:\Studio\PHPApplication\ehview\Runtime\App\Cache\Admin\9df924d9a2d217daa77a359c5bee0c33.php 第 208 行.
+NOTIC: [8] Undefined index: hassub E:\Studio\PHPApplication\ehview\Runtime\App\Cache\Admin\9df924d9a2d217daa77a359c5bee0c33.php 第 208 行.
+NOTIC: [8] Undefined index: hassub E:\Studio\PHPApplication\ehview\Runtime\App\Cache\Admin\9df924d9a2d217daa77a359c5bee0c33.php 第 208 行.
+NOTIC: [8] Undefined index: icon E:\Studio\PHPApplication\ehview\Runtime\App\Cache\Admin\9df924d9a2d217daa77a359c5bee0c33.php 第 211 行.
+NOTIC: [8] Undefined index: icon E:\Studio\PHPApplication\ehview\Runtime\App\Cache\Admin\9df924d9a2d217daa77a359c5bee0c33.php 第 211 行.
+NOTIC: [8] Undefined index: icon E:\Studio\PHPApplication\ehview\Runtime\App\Cache\Admin\9df924d9a2d217daa77a359c5bee0c33.php 第 211 行.
+NOTIC: [8] Undefined index: hassub E:\Studio\PHPApplication\ehview\Runtime\App\Cache\Admin\9df924d9a2d217daa77a359c5bee0c33.php 第 208 行.
+SQL: SHOW COLUMNS FROM `eh_role_user` [ RunTime:0.000822s ]
+SQL: SELECT * FROM `eh_role_user` WHERE ( user_id=1 ) LIMIT 1   [ RunTime:0.000230s ]
+SQL: SHOW COLUMNS FROM `eh_role` [ RunTime:0.000558s ]
+SQL: SELECT `id`,`name` FROM `eh_role`  [ RunTime:0.000177s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.057385s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.057464s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000433s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000502s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000858s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000936s ]
+
+[ 2017-05-04T14:40:11+08:00 ] ::1 /ehview/index.php?m=Admin&c=Indexmanger&a=index&_=1493880007831
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: Run Common\Behavior\InitHookBehavior [ RunTime:0.002480s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003147s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000665s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000800s ]
+SQL: SHOW COLUMNS FROM `eh_indexmanger` [ RunTime:0.000905s ]
+NOTIC: [8] Undefined variable: order E:\Studio\PHPApplication\ehview\App\Admin\Controller\CommonController.class.php 第 177 行.
+NOTIC: [8] Undefined variable: sort E:\Studio\PHPApplication\ehview\App\Admin\Controller\CommonController.class.php 第 187 行.
+SQL: SELECT COUNT(*) AS tp_count FROM `eh_indexmanger` LIMIT 1   [ RunTime:0.000295s ]
+NOTIC: [8] Undefined variable: listRows E:\Studio\PHPApplication\ehview\App\Admin\Controller\CommonController.class.php 第 198 行.
+NOTIC: [8] Undefined index: pageNum E:\Studio\PHPApplication\ehview\App\Admin\Controller\CommonController.class.php 第 204 行.
+SQL: SELECT * FROM `eh_indexmanger` ORDER BY `id` desc LIMIT 0,10   [ RunTime:0.000548s ]
+NOTIC: [2] Division by zero E:\Studio\PHPApplication\ehview\ThinkPHP\Library\Think\Page.class.php 第 84 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000076s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000157s ]
+NOTIC: [8] Undefined index: orderField E:\Studio\PHPApplication\ehview\Runtime\App\Cache\Admin\21d639f24f1eae2415022851b9024755.php 第 5 行.
+NOTIC: [8] Undefined index: orderDirection E:\Studio\PHPApplication\ehview\Runtime\App\Cache\Admin\21d639f24f1eae2415022851b9024755.php 第 6 行.
+NOTIC: [8] Undefined index: title E:\Studio\PHPApplication\ehview\Runtime\App\Cache\Admin\21d639f24f1eae2415022851b9024755.php 第 31 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.038373s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.038452s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000453s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000516s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000734s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000805s ]
+
+[ 2017-05-04T14:40:15+08:00 ] ::1 /ehview/index.php/Admin/Indexmanger/edit/id/1/navTabId/Indexmanger?_=1493880007832
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: Run Common\Behavior\InitHookBehavior [ RunTime:0.001978s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002516s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000551s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000636s ]
+SQL: SHOW COLUMNS FROM `eh_indexmanger` [ RunTime:0.000890s ]
+SQL: SELECT * FROM `eh_indexmanger` WHERE `id` = 1 LIMIT 1   [ RunTime:0.000268s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000089s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000183s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.030444s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.030535s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000465s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000532s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000725s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000798s ]
+
+[ 2017-05-04T14:40:28+08:00 ] ::1 /ehview/index.php?m=Admin&c=Config&a=group&_=1493880007833
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: Run Common\Behavior\InitHookBehavior [ RunTime:0.002737s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003451s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000808s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000923s ]
+SQL: SHOW COLUMNS FROM `eh_config` [ RunTime:0.000905s ]
+SQL: SELECT `id`,`name`,`title`,`extra`,`value`,`remark`,`type` FROM `eh_config` WHERE `status` = 1 AND `group` = 1 ORDER BY sort  [ RunTime:0.000497s ]
+SQL: SELECT `id`,`name`,`title`,`extra`,`value`,`remark`,`type` FROM `eh_config` WHERE `status` = 1 AND `group` = 2 ORDER BY sort  [ RunTime:0.000247s ]
+SQL: SELECT `id`,`name`,`title`,`extra`,`value`,`remark`,`type` FROM `eh_config` WHERE `status` = 1 AND `group` = 3 ORDER BY sort  [ RunTime:0.000279s ]
+SQL: SELECT `id`,`name`,`title`,`extra`,`value`,`remark`,`type` FROM `eh_config` WHERE `status` = 1 AND `group` = 4 ORDER BY sort  [ RunTime:0.000367s ]
+SQL: SELECT `id`,`name`,`title`,`extra`,`value`,`remark`,`type` FROM `eh_config` WHERE `status` = 1 AND `group` = 5 ORDER BY sort  [ RunTime:0.000296s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000084s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000154s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.016606s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.016703s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000736s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000809s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001040s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001157s ]
+
+[ 2017-05-04T14:43:17+08:00 ] ::1 /ehview/index.php?m=Admin&c=Article&a=index&_=1493880007834
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: Run Common\Behavior\InitHookBehavior [ RunTime:0.002749s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003367s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000692s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000770s ]
+SQL: SHOW COLUMNS FROM `eh_article` [ RunTime:0.000943s ]
+NOTIC: [8] Undefined variable: order E:\Studio\PHPApplication\ehview\App\Admin\Controller\CommonController.class.php 第 177 行.
+NOTIC: [8] Undefined variable: sort E:\Studio\PHPApplication\ehview\App\Admin\Controller\CommonController.class.php 第 187 行.
+SQL: SELECT COUNT(*) AS tp_count FROM `eh_article` LIMIT 1   [ RunTime:0.000247s ]
+NOTIC: [8] Undefined variable: listRows E:\Studio\PHPApplication\ehview\App\Admin\Controller\CommonController.class.php 第 198 行.
+NOTIC: [8] Undefined index: pageNum E:\Studio\PHPApplication\ehview\App\Admin\Controller\CommonController.class.php 第 204 行.
+SQL: SELECT * FROM `eh_article` ORDER BY `id` desc LIMIT 0,10   [ RunTime:0.000774s ]
+NOTIC: [2] Division by zero E:\Studio\PHPApplication\ehview\ThinkPHP\Library\Think\Page.class.php 第 84 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000081s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000164s ]
+NOTIC: [8] Undefined index: orderField E:\Studio\PHPApplication\ehview\Runtime\App\Cache\Admin\ac492b5605bffa8cac27c5e0dc599b32.php 第 5 行.
+NOTIC: [8] Undefined index: orderDirection E:\Studio\PHPApplication\ehview\Runtime\App\Cache\Admin\ac492b5605bffa8cac27c5e0dc599b32.php 第 6 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.040776s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.040853s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000472s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000557s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000716s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000787s ]
+
+[ 2017-05-04T14:43:28+08:00 ] ::1 /ehview/index.php?m=Admin&c=Video&a=index&_=1493880007835
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: Run Common\Behavior\InitHookBehavior [ RunTime:0.002819s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003582s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000898s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001042s ]
+SQL: SHOW COLUMNS FROM `eh_video` [ RunTime:0.000726s ]
+NOTIC: [8] Undefined variable: order E:\Studio\PHPApplication\ehview\App\Admin\Controller\CommonController.class.php 第 177 行.
+NOTIC: [8] Undefined variable: sort E:\Studio\PHPApplication\ehview\App\Admin\Controller\CommonController.class.php 第 187 行.
+SQL: SELECT COUNT(*) AS tp_count FROM `eh_video` LIMIT 1   [ RunTime:0.000233s ]
+NOTIC: [8] Undefined variable: listRows E:\Studio\PHPApplication\ehview\App\Admin\Controller\CommonController.class.php 第 198 行.
+NOTIC: [8] Undefined index: pageNum E:\Studio\PHPApplication\ehview\App\Admin\Controller\CommonController.class.php 第 204 行.
+SQL: SELECT * FROM `eh_video` ORDER BY `id` desc LIMIT 0,10   [ RunTime:0.000348s ]
+NOTIC: [2] Division by zero E:\Studio\PHPApplication\ehview\ThinkPHP\Library\Think\Page.class.php 第 84 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000082s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000164s ]
+NOTIC: [8] Undefined index: orderField E:\Studio\PHPApplication\ehview\Runtime\App\Cache\Admin\cad09421e9f8c81d11665085e88a1d4e.php 第 5 行.
+NOTIC: [8] Undefined index: orderDirection E:\Studio\PHPApplication\ehview\Runtime\App\Cache\Admin\cad09421e9f8c81d11665085e88a1d4e.php 第 6 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.054809s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.054887s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000444s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000541s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000738s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000826s ]
+
+[ 2017-05-04T14:43:40+08:00 ] ::1 /ehview/index.php?m=Admin&c=Article&a=index&_=1493880007836
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: Run Common\Behavior\InitHookBehavior [ RunTime:0.001782s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002252s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000770s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000910s ]
+SQL: SHOW COLUMNS FROM `eh_article` [ RunTime:0.000784s ]
+NOTIC: [8] Undefined variable: order E:\Studio\PHPApplication\ehview\App\Admin\Controller\CommonController.class.php 第 177 行.
+NOTIC: [8] Undefined variable: sort E:\Studio\PHPApplication\ehview\App\Admin\Controller\CommonController.class.php 第 187 行.
+SQL: SELECT COUNT(*) AS tp_count FROM `eh_article` LIMIT 1   [ RunTime:0.000216s ]
+NOTIC: [8] Undefined variable: listRows E:\Studio\PHPApplication\ehview\App\Admin\Controller\CommonController.class.php 第 198 行.
+NOTIC: [8] Undefined index: pageNum E:\Studio\PHPApplication\ehview\App\Admin\Controller\CommonController.class.php 第 204 行.
+SQL: SELECT * FROM `eh_article` ORDER BY `id` desc LIMIT 0,10   [ RunTime:0.000712s ]
+NOTIC: [2] Division by zero E:\Studio\PHPApplication\ehview\ThinkPHP\Library\Think\Page.class.php 第 84 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000079s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000162s ]
+NOTIC: [8] Undefined index: orderField E:\Studio\PHPApplication\ehview\Runtime\App\Cache\Admin\ac492b5605bffa8cac27c5e0dc599b32.php 第 5 行.
+NOTIC: [8] Undefined index: orderDirection E:\Studio\PHPApplication\ehview\Runtime\App\Cache\Admin\ac492b5605bffa8cac27c5e0dc599b32.php 第 6 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011202s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011273s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000423s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000490s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000659s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000724s ]
+
+[ 2017-05-04T14:43:41+08:00 ] ::1 /ehview/index.php?m=Admin&c=Indexmanger&a=index&_=1493880007837
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: Run Common\Behavior\InitHookBehavior [ RunTime:0.002387s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003149s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000884s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001014s ]
+SQL: SHOW COLUMNS FROM `eh_indexmanger` [ RunTime:0.000674s ]
+NOTIC: [8] Undefined variable: order E:\Studio\PHPApplication\ehview\App\Admin\Controller\CommonController.class.php 第 177 行.
+NOTIC: [8] Undefined variable: sort E:\Studio\PHPApplication\ehview\App\Admin\Controller\CommonController.class.php 第 187 行.
+SQL: SELECT COUNT(*) AS tp_count FROM `eh_indexmanger` LIMIT 1   [ RunTime:0.000269s ]
+NOTIC: [8] Undefined variable: listRows E:\Studio\PHPApplication\ehview\App\Admin\Controller\CommonController.class.php 第 198 行.
+NOTIC: [8] Undefined index: pageNum E:\Studio\PHPApplication\ehview\App\Admin\Controller\CommonController.class.php 第 204 行.
+SQL: SELECT * FROM `eh_indexmanger` ORDER BY `id` desc LIMIT 0,10   [ RunTime:0.000349s ]
+NOTIC: [2] Division by zero E:\Studio\PHPApplication\ehview\ThinkPHP\Library\Think\Page.class.php 第 84 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000077s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000158s ]
+NOTIC: [8] Undefined index: orderField E:\Studio\PHPApplication\ehview\Runtime\App\Cache\Admin\21d639f24f1eae2415022851b9024755.php 第 5 行.
+NOTIC: [8] Undefined index: orderDirection E:\Studio\PHPApplication\ehview\Runtime\App\Cache\Admin\21d639f24f1eae2415022851b9024755.php 第 6 行.
+NOTIC: [8] Undefined index: title E:\Studio\PHPApplication\ehview\Runtime\App\Cache\Admin\21d639f24f1eae2415022851b9024755.php 第 31 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010680s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010757s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000470s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000531s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000735s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000802s ]
+
+[ 2017-05-04T14:43:43+08:00 ] ::1 /ehview/index.php?m=Admin&c=Article&a=index&_=1493880007838
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: Run Common\Behavior\InitHookBehavior [ RunTime:0.003073s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003680s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000638s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000740s ]
+SQL: SHOW COLUMNS FROM `eh_article` [ RunTime:0.000701s ]
+NOTIC: [8] Undefined variable: order E:\Studio\PHPApplication\ehview\App\Admin\Controller\CommonController.class.php 第 177 行.
+NOTIC: [8] Undefined variable: sort E:\Studio\PHPApplication\ehview\App\Admin\Controller\CommonController.class.php 第 187 行.
+SQL: SELECT COUNT(*) AS tp_count FROM `eh_article` LIMIT 1   [ RunTime:0.000184s ]
+NOTIC: [8] Undefined variable: listRows E:\Studio\PHPApplication\ehview\App\Admin\Controller\CommonController.class.php 第 198 行.
+NOTIC: [8] Undefined index: pageNum E:\Studio\PHPApplication\ehview\App\Admin\Controller\CommonController.class.php 第 204 行.
+SQL: SELECT * FROM `eh_article` ORDER BY `id` desc LIMIT 0,10   [ RunTime:0.000877s ]
+NOTIC: [2] Division by zero E:\Studio\PHPApplication\ehview\ThinkPHP\Library\Think\Page.class.php 第 84 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000081s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000216s ]
+NOTIC: [8] Undefined index: orderField E:\Studio\PHPApplication\ehview\Runtime\App\Cache\Admin\ac492b5605bffa8cac27c5e0dc599b32.php 第 5 行.
+NOTIC: [8] Undefined index: orderDirection E:\Studio\PHPApplication\ehview\Runtime\App\Cache\Admin\ac492b5605bffa8cac27c5e0dc599b32.php 第 6 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011096s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011165s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000464s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000543s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000668s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000736s ]
+
+[ 2017-05-04T14:43:43+08:00 ] ::1 /ehview/index.php?m=Admin&c=Video&a=index&_=1493880007839
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: Run Common\Behavior\InitHookBehavior [ RunTime:0.001775s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002242s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000906s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001018s ]
+SQL: SHOW COLUMNS FROM `eh_video` [ RunTime:0.000625s ]
+NOTIC: [8] Undefined variable: order E:\Studio\PHPApplication\ehview\App\Admin\Controller\CommonController.class.php 第 177 行.
+NOTIC: [8] Undefined variable: sort E:\Studio\PHPApplication\ehview\App\Admin\Controller\CommonController.class.php 第 187 行.
+SQL: SELECT COUNT(*) AS tp_count FROM `eh_video` LIMIT 1   [ RunTime:0.000217s ]
+NOTIC: [8] Undefined variable: listRows E:\Studio\PHPApplication\ehview\App\Admin\Controller\CommonController.class.php 第 198 行.
+NOTIC: [8] Undefined index: pageNum E:\Studio\PHPApplication\ehview\App\Admin\Controller\CommonController.class.php 第 204 行.
+SQL: SELECT * FROM `eh_video` ORDER BY `id` desc LIMIT 0,10   [ RunTime:0.000301s ]
+NOTIC: [2] Division by zero E:\Studio\PHPApplication\ehview\ThinkPHP\Library\Think\Page.class.php 第 84 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000077s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000146s ]
+NOTIC: [8] Undefined index: orderField E:\Studio\PHPApplication\ehview\Runtime\App\Cache\Admin\cad09421e9f8c81d11665085e88a1d4e.php 第 5 行.
+NOTIC: [8] Undefined index: orderDirection E:\Studio\PHPApplication\ehview\Runtime\App\Cache\Admin\cad09421e9f8c81d11665085e88a1d4e.php 第 6 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010927s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000436s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000496s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000770s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000846s ]
+
+[ 2017-05-04T14:45:08+08:00 ] ::1 /ehview/index.php/Admin/Video
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: Run Common\Behavior\InitHookBehavior [ RunTime:0.001852s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002375s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000642s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000728s ]
+SQL: SHOW COLUMNS FROM `eh_video` [ RunTime:0.000676s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `eh_video` LIMIT 1   [ RunTime:0.000214s ]
+NOTIC: [8] Undefined variable: listRows E:\Studio\PHPApplication\ehview\App\Admin\Controller\CommonController.class.php 第 198 行.
+SQL: SELECT * FROM `eh_video` ORDER BY `id` desc LIMIT 10,10   [ RunTime:0.000312s ]
+NOTIC: [2] Division by zero E:\Studio\PHPApplication\ehview\ThinkPHP\Library\Think\Page.class.php 第 84 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000080s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000194s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011976s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012088s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000465s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000527s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000744s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000821s ]
+
+[ 2017-05-04T17:16:27+08:00 ] ::1 /ehview/index.php?m=Admin&c=Public&a=verify&random=0.6631608466464798
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: Run Common\Behavior\InitHookBehavior [ RunTime:0.002422s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002931s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000681s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000765s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000815s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000912s ]
+
+[ 2017-05-04T17:16:29+08:00 ] ::1 /ehview/index.php?m=Admin&c=Public&a=verify&random=0.6631608466464798&random=0.5494131942099012
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: Run Common\Behavior\InitHookBehavior [ RunTime:0.001702s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002158s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000530s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000613s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000836s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000925s ]
+
+[ 2017-05-04T17:34:55+08:00 ] ::1 /ehview/index.php?m=Admin&c=Public&a=verify&random=0.6631608466464798&random=0.5494131942099012&random=0.387780965851134
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: Run Common\Behavior\InitHookBehavior [ RunTime:0.002331s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002859s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000705s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000794s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001546s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001731s ]
+
+[ 2017-05-04T17:35:01+08:00 ] ::1 /ehview/index.php?m=Admin&c=Public&a=checkLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: Run Common\Behavior\InitHookBehavior [ RunTime:0.001697s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002145s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000538s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000620s ]
+
+[ 2017-05-04T17:35:01+08:00 ] ::1 /ehview/index.php?m=Admin&c=Public&a=verify&random=0.6631608466464798&random=0.5494131942099012&random=0.387780965851134&random=0.6304595794059142
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: Run Common\Behavior\InitHookBehavior [ RunTime:0.001746s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002210s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000541s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000625s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000712s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000790s ]
+
+[ 2017-05-04T17:35:09+08:00 ] ::1 /ehview/index.php?m=Admin&c=Public&a=checkLogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: Run Common\Behavior\InitHookBehavior [ RunTime:0.001854s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002307s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000543s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000621s ]
+SQL: SHOW COLUMNS FROM `eh_user` [ RunTime:0.005993s ]
+SQL: SELECT * FROM `eh_user` WHERE `account` = 'admin' AND `status` > 0 LIMIT 1   [ RunTime:0.000522s ]
+SQL: UPDATE `eh_user` SET `last_login_time`=1493890509,`login_count`=login_count+1,`last_login_ip`='0.0.0.0' WHERE `id` = 1 [ RunTime:0.000316s ]
+SQL: SHOW COLUMNS FROM `eh_syslogs` [ RunTime:0.020754s ]
+SQL: INSERT INTO `eh_syslogs` (`modulename`,`actionname`,`opname`,`message`,`username`,`userid`,`userip`,`create_time`) VALUES ('公共模块','用户登录','用户登录','成功','管理员(admin)',1,'0.0.0.0',1493890509) [ RunTime:0.000327s ]
+
+[ 2017-05-04T17:35:10+08:00 ] ::1 /ehview/index.php?m=Admin&c=Index&a=index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: Run Common\Behavior\InitHookBehavior [ RunTime:0.001556s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001961s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000484s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000560s ]
+SQL: SHOW COLUMNS FROM `eh_group` [ RunTime:0.000955s ]
+SQL: SELECT * FROM `eh_group` WHERE `status` = 1 AND `show` = 1 ORDER BY sort asc  [ RunTime:0.000569s ]
+SQL: SHOW COLUMNS FROM `eh_node` [ RunTime:0.001041s ]
+SQL: SELECT `id`,`name`,`group_id`,`title`,`remark`,`icon` FROM `eh_node` WHERE `level` = 2 AND `status` = 1 AND `pid` = 1 ORDER BY sort asc  [ RunTime:0.000547s ]
+NOTIC: [8] Undefined index: 6 E:\Studio\PHPApplication\ehview\App\Admin\Controller\IndexController.class.php 第 44 行.
+NOTIC: [2] Invalid argument supplied for foreach() E:\Studio\PHPApplication\ehview\App\Admin\Controller\IndexController.class.php 第 44 行.
+NOTIC: [8] Undefined index: 6 E:\Studio\PHPApplication\ehview\App\Admin\Controller\IndexController.class.php 第 60 行.
+NOTIC: [8] Undefined index: 5 E:\Studio\PHPApplication\ehview\App\Admin\Controller\IndexController.class.php 第 44 行.
+NOTIC: [2] Invalid argument supplied for foreach() E:\Studio\PHPApplication\ehview\App\Admin\Controller\IndexController.class.php 第 44 行.
+NOTIC: [8] Undefined index: 5 E:\Studio\PHPApplication\ehview\App\Admin\Controller\IndexController.class.php 第 60 行.
+SQL: SHOW COLUMNS FROM `eh_addons` [ RunTime:0.000753s ]
+SQL: SELECT `title`,`name` FROM `eh_addons` WHERE ( status=1 AND has_adminlist=1 )  [ RunTime:0.000285s ]
+SQL: SHOW COLUMNS FROM `eh_syslogs` [ RunTime:0.021013s ]
+SQL: SELECT * FROM `eh_syslogs` ORDER BY id desc LIMIT 10   [ RunTime:0.000573s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000228s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000309s ]
+NOTIC: [8] Undefined index: hassub E:\Studio\PHPApplication\ehview\Runtime\App\Cache\Admin\9df924d9a2d217daa77a359c5bee0c33.php 第 208 行.
+NOTIC: [8] Undefined index: hassub E:\Studio\PHPApplication\ehview\Runtime\App\Cache\Admin\9df924d9a2d217daa77a359c5bee0c33.php 第 208 行.
+NOTIC: [8] Undefined index: hassub E:\Studio\PHPApplication\ehview\Runtime\App\Cache\Admin\9df924d9a2d217daa77a359c5bee0c33.php 第 208 行.
+NOTIC: [8] Undefined index: hassub E:\Studio\PHPApplication\ehview\Runtime\App\Cache\Admin\9df924d9a2d217daa77a359c5bee0c33.php 第 208 行.
+NOTIC: [8] Undefined index: hassub E:\Studio\PHPApplication\ehview\Runtime\App\Cache\Admin\9df924d9a2d217daa77a359c5bee0c33.php 第 208 行.
+NOTIC: [8] Undefined index: hassub E:\Studio\PHPApplication\ehview\Runtime\App\Cache\Admin\9df924d9a2d217daa77a359c5bee0c33.php 第 208 行.
+NOTIC: [8] Undefined index: hassub E:\Studio\PHPApplication\ehview\Runtime\App\Cache\Admin\9df924d9a2d217daa77a359c5bee0c33.php 第 208 行.
+NOTIC: [8] Undefined index: hassub E:\Studio\PHPApplication\ehview\Runtime\App\Cache\Admin\9df924d9a2d217daa77a359c5bee0c33.php 第 208 行.
+NOTIC: [8] Undefined index: hassub E:\Studio\PHPApplication\ehview\Runtime\App\Cache\Admin\9df924d9a2d217daa77a359c5bee0c33.php 第 208 行.
+NOTIC: [8] Undefined index: hassub E:\Studio\PHPApplication\ehview\Runtime\App\Cache\Admin\9df924d9a2d217daa77a359c5bee0c33.php 第 208 行.
+NOTIC: [8] Undefined index: hassub E:\Studio\PHPApplication\ehview\Runtime\App\Cache\Admin\9df924d9a2d217daa77a359c5bee0c33.php 第 208 行.
+NOTIC: [8] Undefined index: hassub E:\Studio\PHPApplication\ehview\Runtime\App\Cache\Admin\9df924d9a2d217daa77a359c5bee0c33.php 第 208 行.
+NOTIC: [8] Undefined index: hassub E:\Studio\PHPApplication\ehview\Runtime\App\Cache\Admin\9df924d9a2d217daa77a359c5bee0c33.php 第 208 行.
+NOTIC: [8] Undefined index: icon E:\Studio\PHPApplication\ehview\Runtime\App\Cache\Admin\9df924d9a2d217daa77a359c5bee0c33.php 第 211 行.
+NOTIC: [8] Undefined index: icon E:\Studio\PHPApplication\ehview\Runtime\App\Cache\Admin\9df924d9a2d217daa77a359c5bee0c33.php 第 211 行.
+NOTIC: [8] Undefined index: icon E:\Studio\PHPApplication\ehview\Runtime\App\Cache\Admin\9df924d9a2d217daa77a359c5bee0c33.php 第 211 行.
+NOTIC: [8] Undefined index: hassub E:\Studio\PHPApplication\ehview\Runtime\App\Cache\Admin\9df924d9a2d217daa77a359c5bee0c33.php 第 208 行.
+SQL: SHOW COLUMNS FROM `eh_role_user` [ RunTime:0.001242s ]
+SQL: SELECT * FROM `eh_role_user` WHERE ( user_id=1 ) LIMIT 1   [ RunTime:0.000354s ]
+SQL: SHOW COLUMNS FROM `eh_role` [ RunTime:0.000766s ]
+SQL: SELECT `id`,`name` FROM `eh_role`  [ RunTime:0.000279s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.057250s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.057326s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000428s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000495s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000985s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001064s ]
+
+[ 2017-05-04T17:35:13+08:00 ] ::1 /ehview/index.php?m=Admin&c=Video&a=index&_=1493890510244
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000048s ]
+INFO: Run Common\Behavior\InitHookBehavior [ RunTime:0.002720s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003549s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000976s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001152s ]
+SQL: SHOW COLUMNS FROM `eh_video` [ RunTime:0.000808s ]
+NOTIC: [8] Undefined variable: order E:\Studio\PHPApplication\ehview\App\Admin\Controller\CommonController.class.php 第 177 行.
+NOTIC: [8] Undefined variable: sort E:\Studio\PHPApplication\ehview\App\Admin\Controller\CommonController.class.php 第 187 行.
+SQL: SELECT COUNT(*) AS tp_count FROM `eh_video` LIMIT 1   [ RunTime:0.000485s ]
+NOTIC: [8] Undefined variable: listRows E:\Studio\PHPApplication\ehview\App\Admin\Controller\CommonController.class.php 第 198 行.
+NOTIC: [8] Undefined index: pageNum E:\Studio\PHPApplication\ehview\App\Admin\Controller\CommonController.class.php 第 204 行.
+SQL: SELECT * FROM `eh_video` ORDER BY `id` desc LIMIT 0,10   [ RunTime:0.000465s ]
+NOTIC: [2] Division by zero E:\Studio\PHPApplication\ehview\ThinkPHP\Library\Think\Page.class.php 第 84 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000081s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000158s ]
+NOTIC: [8] Undefined index: orderField E:\Studio\PHPApplication\ehview\Runtime\App\Cache\Admin\cad09421e9f8c81d11665085e88a1d4e.php 第 5 行.
+NOTIC: [8] Undefined index: orderDirection E:\Studio\PHPApplication\ehview\Runtime\App\Cache\Admin\cad09421e9f8c81d11665085e88a1d4e.php 第 6 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011386s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011460s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000437s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000499s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000758s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000829s ]
+
+[ 2017-05-04T17:40:03+08:00 ] ::1 /ehview/index.php/Admin/Video
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: Run Common\Behavior\InitHookBehavior [ RunTime:0.003053s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003674s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000731s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000829s ]
+SQL: SHOW COLUMNS FROM `eh_video` [ RunTime:0.000801s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `eh_video` LIMIT 1   [ RunTime:0.000247s ]
+NOTIC: [8] Undefined variable: listRows E:\Studio\PHPApplication\ehview\App\Admin\Controller\CommonController.class.php 第 198 行.
+SQL: SELECT * FROM `eh_video` ORDER BY `id` desc LIMIT 10,10   [ RunTime:0.000511s ]
+NOTIC: [2] Division by zero E:\Studio\PHPApplication\ehview\ThinkPHP\Library\Think\Page.class.php 第 84 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000124s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000247s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.016803s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.016894s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000453s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000515s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000762s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000832s ]
+
+[ 2017-05-04T17:40:05+08:00 ] ::1 /ehview/index.php?m=Admin&c=Article&a=index&_=1493890510245
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: Run Common\Behavior\InitHookBehavior [ RunTime:0.002653s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003361s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000714s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000871s ]
+SQL: SHOW COLUMNS FROM `eh_article` [ RunTime:0.000932s ]
+NOTIC: [8] Undefined variable: order E:\Studio\PHPApplication\ehview\App\Admin\Controller\CommonController.class.php 第 177 行.
+NOTIC: [8] Undefined variable: sort E:\Studio\PHPApplication\ehview\App\Admin\Controller\CommonController.class.php 第 187 行.
+SQL: SELECT COUNT(*) AS tp_count FROM `eh_article` LIMIT 1   [ RunTime:0.000290s ]
+NOTIC: [8] Undefined variable: listRows E:\Studio\PHPApplication\ehview\App\Admin\Controller\CommonController.class.php 第 198 行.
+NOTIC: [8] Undefined index: pageNum E:\Studio\PHPApplication\ehview\App\Admin\Controller\CommonController.class.php 第 204 行.
+SQL: SELECT * FROM `eh_article` ORDER BY `id` desc LIMIT 0,10   [ RunTime:0.001110s ]
+NOTIC: [2] Division by zero E:\Studio\PHPApplication\ehview\ThinkPHP\Library\Think\Page.class.php 第 84 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000081s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000168s ]
+NOTIC: [8] Undefined index: orderField E:\Studio\PHPApplication\ehview\Runtime\App\Cache\Admin\ac492b5605bffa8cac27c5e0dc599b32.php 第 5 行.
+NOTIC: [8] Undefined index: orderDirection E:\Studio\PHPApplication\ehview\Runtime\App\Cache\Admin\ac492b5605bffa8cac27c5e0dc599b32.php 第 6 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011291s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011361s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000444s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000508s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000684s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000761s ]
+
+[ 2017-05-04T17:40:08+08:00 ] ::1 /ehview/index.php?m=Admin&c=Role&a=index&_=1493890510246
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: Run Common\Behavior\InitHookBehavior [ RunTime:0.002655s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003433s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000685s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000786s ]
+SQL: SHOW COLUMNS FROM `eh_role` [ RunTime:0.000637s ]
+NOTIC: [8] Undefined index: name E:\Studio\PHPApplication\ehview\App\Admin\Controller\RoleController.class.php 第 7 行.
+NOTIC: [8] Undefined variable: order E:\Studio\PHPApplication\ehview\App\Admin\Controller\CommonController.class.php 第 177 行.
+NOTIC: [8] Undefined variable: sort E:\Studio\PHPApplication\ehview\App\Admin\Controller\CommonController.class.php 第 187 行.
+SQL: SELECT COUNT(*) AS tp_count FROM `eh_role` WHERE `name` LIKE '%%' LIMIT 1   [ RunTime:0.000274s ]
+NOTIC: [8] Undefined variable: listRows E:\Studio\PHPApplication\ehview\App\Admin\Controller\CommonController.class.php 第 198 行.
+NOTIC: [8] Undefined index: pageNum E:\Studio\PHPApplication\ehview\App\Admin\Controller\CommonController.class.php 第 204 行.
+SQL: SELECT * FROM `eh_role` WHERE `name` LIKE '%%' ORDER BY `id` desc LIMIT 0,10   [ RunTime:0.000272s ]
+NOTIC: [2] Division by zero E:\Studio\PHPApplication\ehview\ThinkPHP\Library\Think\Page.class.php 第 84 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000117s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000197s ]
+NOTIC: [8] Undefined index: name E:\Studio\PHPApplication\ehview\Runtime\App\Cache\Admin\a0a7524eab22c3693baad75fbdbe707e.php 第 4 行.
+NOTIC: [8] Undefined index: orderField E:\Studio\PHPApplication\ehview\Runtime\App\Cache\Admin\a0a7524eab22c3693baad75fbdbe707e.php 第 5 行.
+NOTIC: [8] Undefined index: orderDirection E:\Studio\PHPApplication\ehview\Runtime\App\Cache\Admin\a0a7524eab22c3693baad75fbdbe707e.php 第 6 行.
+NOTIC: [8] Undefined index: name E:\Studio\PHPApplication\ehview\Runtime\App\Cache\Admin\a0a7524eab22c3693baad75fbdbe707e.php 第 15 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.049094s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.049170s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000426s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000486s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000728s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000797s ]
+
+[ 2017-05-04T17:40:12+08:00 ] ::1 /ehview/index.php/Admin/Role/add?_=1493890510247
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: Run Common\Behavior\InitHookBehavior [ RunTime:0.001715s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002190s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000537s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000613s ]
+SQL: SHOW COLUMNS FROM `eh_role` [ RunTime:0.000728s ]
+SQL: SELECT `id`,`name`,`pid` FROM `eh_role`  [ RunTime:0.000366s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000074s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000155s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.023664s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.023750s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000553s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000616s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000738s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000806s ]
+
+[ 2017-05-04T17:40:19+08:00 ] ::1 /ehview/index.php/Admin/Role/access/groupId/1?_=1493890510248
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: Run Common\Behavior\InitHookBehavior [ RunTime:0.002014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002541s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000638s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000764s ]
+SQL: SHOW COLUMNS FROM `eh_node` [ RunTime:0.000853s ]
+SQL: SELECT * FROM `eh_node`  [ RunTime:0.000601s ]
+SQL: SELECT * FROM `eh_node` WHERE `pid` = 0 LIMIT 1   [ RunTime:0.000315s ]
+SQL: SHOW COLUMNS FROM `eh_role` [ RunTime:0.000874s ]
+SQL: SHOW COLUMNS FROM `eh_access` [ RunTime:0.000634s ]
+SQL: SELECT `node_id` FROM `eh_access` WHERE `role_id` = 1  [ RunTime:0.000232s ]
+NOTIC: [2] implode() [<a href='function.implode'>function.implode</a>]: Invalid arguments passed E:\Studio\PHPApplication\ehview\ThinkPHP\Library\Think\Db.class.php 第 497 行.
+SQL: SELECT `id`,`title`,`name` FROM `eh_node` WHERE `id` IN ()  [ RunTime:0.000149s ]
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+ [ SQL语句 ] : SELECT `id`,`title`,`name` FROM `eh_node` WHERE `id` IN () 
+NOTIC: [2] Invalid argument supplied for foreach() E:\Studio\PHPApplication\ehview\App\Admin\Controller\RoleController.class.php 第 133 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000078s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000161s ]
+NOTIC: [8] Undefined index: sub_node E:\Studio\PHPApplication\ehview\Runtime\App\Cache\Admin\963ca0a54a6e8dd745fd284ddbcb2526.php 第 51 行.
+NOTIC: [8] Undefined index: sub_node E:\Studio\PHPApplication\ehview\Runtime\App\Cache\Admin\963ca0a54a6e8dd745fd284ddbcb2526.php 第 51 行.
+NOTIC: [8] Undefined index: sub_node E:\Studio\PHPApplication\ehview\Runtime\App\Cache\Admin\963ca0a54a6e8dd745fd284ddbcb2526.php 第 51 行.
+NOTIC: [8] Undefined index: sub_node E:\Studio\PHPApplication\ehview\Runtime\App\Cache\Admin\963ca0a54a6e8dd745fd284ddbcb2526.php 第 51 行.
+NOTIC: [8] Undefined index: sub_node E:\Studio\PHPApplication\ehview\Runtime\App\Cache\Admin\963ca0a54a6e8dd745fd284ddbcb2526.php 第 51 行.
+NOTIC: [8] Undefined index: sub_node E:\Studio\PHPApplication\ehview\Runtime\App\Cache\Admin\963ca0a54a6e8dd745fd284ddbcb2526.php 第 51 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.042701s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.042779s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000461s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000539s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000914s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001031s ]
+
+[ 2017-05-04T17:40:26+08:00 ] ::1 /ehview/index.php?m=Admin&c=Role&a=index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: Run Common\Behavior\InitHookBehavior [ RunTime:0.001641s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002067s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001073s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001231s ]
+SQL: SHOW COLUMNS FROM `eh_role` [ RunTime:0.000958s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `eh_role` WHERE `name` LIKE '%%' LIMIT 1   [ RunTime:0.000282s ]
+NOTIC: [8] Undefined variable: listRows E:\Studio\PHPApplication\ehview\App\Admin\Controller\CommonController.class.php 第 198 行.
+SQL: SELECT * FROM `eh_role` WHERE `name` LIKE '%%' ORDER BY `id` desc LIMIT 0,10   [ RunTime:0.000270s ]
+NOTIC: [2] Division by zero E:\Studio\PHPApplication\ehview\ThinkPHP\Library\Think\Page.class.php 第 84 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000096s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000178s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.013768s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013948s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000421s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000479s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000688s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000751s ]
+
+[ 2017-05-04T17:40:30+08:00 ] ::1 /ehview/index.php/Admin/Role/user/id/1/navTabId/Role?_=1493890510249
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: Run Common\Behavior\InitHookBehavior [ RunTime:0.002107s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002699s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000634s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000717s ]
+SQL: SHOW COLUMNS FROM `eh_user` [ RunTime:0.004400s ]
+SQL: SELECT `id`,`account`,`nickname` FROM `eh_user`  [ RunTime:0.000244s ]
+SQL: SHOW COLUMNS FROM `eh_role` [ RunTime:0.000502s ]
+SQL: SELECT `id`,`name` FROM `eh_role`  [ RunTime:0.000296s ]
+SQL: select b.id,b.nickname,b.email from eh_role_user as a ,eh_user as b where a.user_id=b.id and  a.role_id=1  [ RunTime:0.001294s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000169s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000256s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.041262s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.041498s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000463s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000527s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000718s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000790s ]
+
+[ 2017-05-04T17:40:38+08:00 ] ::1 /ehview/index.php?m=Admin&c=Role&a=index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: Run Common\Behavior\InitHookBehavior [ RunTime:0.001803s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002260s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000561s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000643s ]
+SQL: SHOW COLUMNS FROM `eh_role` [ RunTime:0.000814s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `eh_role` WHERE `name` LIKE '%%' LIMIT 1   [ RunTime:0.000287s ]
+NOTIC: [8] Undefined variable: listRows E:\Studio\PHPApplication\ehview\App\Admin\Controller\CommonController.class.php 第 198 行.
+SQL: SELECT * FROM `eh_role` WHERE `name` LIKE '%%' ORDER BY `id` desc LIMIT 0,10   [ RunTime:0.000412s ]
+NOTIC: [2] Division by zero E:\Studio\PHPApplication\ehview\ThinkPHP\Library\Think\Page.class.php 第 84 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000089s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000167s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012573s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012669s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000741s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000820s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000803s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000885s ]
+
+[ 2017-05-04T17:40:42+08:00 ] ::1 /ehview/index.php/Admin/Role/user/id/2/navTabId/Role?_=1493890510250
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: Run Common\Behavior\InitHookBehavior [ RunTime:0.001814s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002347s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000577s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000667s ]
+SQL: SHOW COLUMNS FROM `eh_user` [ RunTime:0.001140s ]
+SQL: SELECT `id`,`account`,`nickname` FROM `eh_user`  [ RunTime:0.000315s ]
+SQL: SHOW COLUMNS FROM `eh_role` [ RunTime:0.000753s ]
+SQL: SELECT `id`,`name` FROM `eh_role`  [ RunTime:0.000265s ]
+SQL: select b.id,b.nickname,b.email from eh_role_user as a ,eh_user as b where a.user_id=b.id and  a.role_id=2  [ RunTime:0.000562s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000067s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000142s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009135s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009212s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000446s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000504s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000688s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000752s ]
+
+[ 2017-05-04T17:40:45+08:00 ] ::1 /ehview/index.php?m=Admin&c=Role&a=index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: Run Common\Behavior\InitHookBehavior [ RunTime:0.001791s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002272s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000557s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000649s ]
+SQL: SHOW COLUMNS FROM `eh_role` [ RunTime:0.001201s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `eh_role` WHERE `name` LIKE '%%' LIMIT 1   [ RunTime:0.000467s ]
+NOTIC: [8] Undefined variable: listRows E:\Studio\PHPApplication\ehview\App\Admin\Controller\CommonController.class.php 第 198 行.
+SQL: SELECT * FROM `eh_role` WHERE `name` LIKE '%%' ORDER BY `id` desc LIMIT 0,10   [ RunTime:0.000428s ]
+NOTIC: [2] Division by zero E:\Studio\PHPApplication\ehview\ThinkPHP\Library\Think\Page.class.php 第 84 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000092s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000167s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012541s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012627s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000438s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000499s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000693s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000760s ]
+
+[ 2017-05-04T17:40:48+08:00 ] ::1 /ehview/index.php/Admin/Role/user/id/3/navTabId/Role?_=1493890510251
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: Run Common\Behavior\InitHookBehavior [ RunTime:0.001887s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002342s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000519s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000594s ]
+SQL: SHOW COLUMNS FROM `eh_user` [ RunTime:0.000885s ]
+SQL: SELECT `id`,`account`,`nickname` FROM `eh_user`  [ RunTime:0.000201s ]
+SQL: SHOW COLUMNS FROM `eh_role` [ RunTime:0.000609s ]
+SQL: SELECT `id`,`name` FROM `eh_role`  [ RunTime:0.000189s ]
+SQL: select b.id,b.nickname,b.email from eh_role_user as a ,eh_user as b where a.user_id=b.id and  a.role_id=3  [ RunTime:0.000401s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000066s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000134s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008594s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008704s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000659s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000739s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000711s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000780s ]
+
+[ 2017-05-04T17:40:52+08:00 ] ::1 /ehview/index.php/Admin/Role/setUser/navTabId/Role
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: Run Common\Behavior\InitHookBehavior [ RunTime:0.001733s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002219s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000532s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000611s ]
+SQL: SHOW COLUMNS FROM `eh_role` [ RunTime:0.001056s ]
+SQL: SHOW COLUMNS FROM `eh_role_user` [ RunTime:0.000692s ]
+SQL: DELETE FROM `eh_role_user` WHERE `role_id` = 3 [ RunTime:0.000332s ]
+SQL: DELETE FROM `eh_role_user` WHERE `user_id` IN ('50') [ RunTime:0.000341s ]
+SQL: INSERT INTO `eh_role_user` (`user_id`,`role_id`) VALUES ('50',3) [ RunTime:0.000296s ]
+
+[ 2017-05-04T17:40:52+08:00 ] ::1 /ehview/index.php?m=Admin&c=Role&a=index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: Run Common\Behavior\InitHookBehavior [ RunTime:0.001813s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002345s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000609s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000721s ]
+SQL: SHOW COLUMNS FROM `eh_role` [ RunTime:0.001408s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `eh_role` WHERE `name` LIKE '%%' LIMIT 1   [ RunTime:0.000260s ]
+NOTIC: [8] Undefined variable: listRows E:\Studio\PHPApplication\ehview\App\Admin\Controller\CommonController.class.php 第 198 行.
+SQL: SELECT * FROM `eh_role` WHERE `name` LIKE '%%' ORDER BY `id` desc LIMIT 0,10   [ RunTime:0.000674s ]
+NOTIC: [2] Division by zero E:\Studio\PHPApplication\ehview\ThinkPHP\Library\Think\Page.class.php 第 84 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000095s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000184s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012356s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012468s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000461s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000523s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000932s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001014s ]
+
+[ 2017-05-04T17:40:56+08:00 ] ::1 /ehview/index.php/Admin/Role/user/id/2/navTabId/Role?_=1493890510252
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: Run Common\Behavior\InitHookBehavior [ RunTime:0.001610s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002034s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000723s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000821s ]
+SQL: SHOW COLUMNS FROM `eh_user` [ RunTime:0.000783s ]
+SQL: SELECT `id`,`account`,`nickname` FROM `eh_user`  [ RunTime:0.000233s ]
+SQL: SHOW COLUMNS FROM `eh_role` [ RunTime:0.000948s ]
+SQL: SELECT `id`,`name` FROM `eh_role`  [ RunTime:0.000230s ]
+SQL: select b.id,b.nickname,b.email from eh_role_user as a ,eh_user as b where a.user_id=b.id and  a.role_id=2  [ RunTime:0.003874s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000067s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000136s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008266s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008346s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000502s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000565s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000780s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000849s ]
+
+[ 2017-05-04T17:40:59+08:00 ] ::1 /ehview/index.php?m=Admin&c=Role&a=index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: Run Common\Behavior\InitHookBehavior [ RunTime:0.001781s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002290s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000518s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000598s ]
+SQL: SHOW COLUMNS FROM `eh_role` [ RunTime:0.000685s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `eh_role` WHERE `name` LIKE '%%' LIMIT 1   [ RunTime:0.000277s ]
+NOTIC: [8] Undefined variable: listRows E:\Studio\PHPApplication\ehview\App\Admin\Controller\CommonController.class.php 第 198 行.
+SQL: SELECT * FROM `eh_role` WHERE `name` LIKE '%%' ORDER BY `id` desc LIMIT 0,10   [ RunTime:0.000308s ]
+NOTIC: [2] Division by zero E:\Studio\PHPApplication\ehview\ThinkPHP\Library\Think\Page.class.php 第 84 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000090s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000256s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012544s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012632s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000425s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000482s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000677s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000738s ]
+
+[ 2017-05-04T17:41:01+08:00 ] ::1 /ehview/index.php/Admin/Role/edit/id/2/navTabId/Role?_=1493890510253
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: Run Common\Behavior\InitHookBehavior [ RunTime:0.001681s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002144s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000514s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000587s ]
+SQL: SHOW COLUMNS FROM `eh_role` [ RunTime:0.000745s ]
+SQL: SELECT `id`,`name`,`pid` FROM `eh_role`  [ RunTime:0.000206s ]
+SQL: SHOW COLUMNS FROM `eh_role` [ RunTime:0.000482s ]
+SQL: SELECT * FROM `eh_role` WHERE `id` = 2 LIMIT 1   [ RunTime:0.000227s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000104s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000200s ]
+NOTIC: [8] Undefined index: id E:\Studio\PHPApplication\ehview\Runtime\App\Cache\Admin\0646039e559c198eb99210f4665e5769.php 第 16 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.026964s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.027047s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000474s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000536s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000692s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000761s ]
+
+[ 2017-05-04T17:41:24+08:00 ] ::1 /ehview/index.php?m=Admin&c=Role&a=index&_=1493890510254
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: Run Common\Behavior\InitHookBehavior [ RunTime:0.003421s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003957s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000752s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000873s ]
+SQL: SHOW COLUMNS FROM `eh_role` [ RunTime:0.001203s ]
+NOTIC: [8] Undefined index: name E:\Studio\PHPApplication\ehview\App\Admin\Controller\RoleController.class.php 第 7 行.
+NOTIC: [8] Undefined variable: order E:\Studio\PHPApplication\ehview\App\Admin\Controller\CommonController.class.php 第 177 行.
+NOTIC: [8] Undefined variable: sort E:\Studio\PHPApplication\ehview\App\Admin\Controller\CommonController.class.php 第 187 行.
+SQL: SELECT COUNT(*) AS tp_count FROM `eh_role` WHERE `name` LIKE '%%' LIMIT 1   [ RunTime:0.000400s ]
+NOTIC: [8] Undefined variable: listRows E:\Studio\PHPApplication\ehview\App\Admin\Controller\CommonController.class.php 第 198 行.
+NOTIC: [8] Undefined index: pageNum E:\Studio\PHPApplication\ehview\App\Admin\Controller\CommonController.class.php 第 204 行.
+SQL: SELECT * FROM `eh_role` WHERE `name` LIKE '%%' ORDER BY `id` desc LIMIT 0,10   [ RunTime:0.000436s ]
+NOTIC: [2] Division by zero E:\Studio\PHPApplication\ehview\ThinkPHP\Library\Think\Page.class.php 第 84 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000099s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000178s ]
+NOTIC: [8] Undefined index: name E:\Studio\PHPApplication\ehview\Runtime\App\Cache\Admin\a0a7524eab22c3693baad75fbdbe707e.php 第 4 行.
+NOTIC: [8] Undefined index: orderField E:\Studio\PHPApplication\ehview\Runtime\App\Cache\Admin\a0a7524eab22c3693baad75fbdbe707e.php 第 5 行.
+NOTIC: [8] Undefined index: orderDirection E:\Studio\PHPApplication\ehview\Runtime\App\Cache\Admin\a0a7524eab22c3693baad75fbdbe707e.php 第 6 行.
+NOTIC: [8] Undefined index: name E:\Studio\PHPApplication\ehview\Runtime\App\Cache\Admin\a0a7524eab22c3693baad75fbdbe707e.php 第 15 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011901s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011983s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000454s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000544s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000736s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000801s ]
+
+[ 2017-05-04T17:41:28+08:00 ] ::1 /ehview/index.php/Admin/Role/add?_=1493890510255
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: Run Common\Behavior\InitHookBehavior [ RunTime:0.001631s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002145s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000520s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000594s ]
+SQL: SHOW COLUMNS FROM `eh_role` [ RunTime:0.000812s ]
+SQL: SELECT `id`,`name`,`pid` FROM `eh_role`  [ RunTime:0.000205s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000074s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000153s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008676s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008765s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000440s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000501s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000689s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000754s ]
+
+[ 2017-05-04T17:41:50+08:00 ] ::1 /ehview/index.php/Admin/Role/edit/id/3/navTabId/Role?_=1493890510256
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: Run Common\Behavior\InitHookBehavior [ RunTime:0.001827s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002299s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000544s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000621s ]
+SQL: SHOW COLUMNS FROM `eh_role` [ RunTime:0.000604s ]
+SQL: SELECT `id`,`name`,`pid` FROM `eh_role`  [ RunTime:0.000301s ]
+SQL: SHOW COLUMNS FROM `eh_role` [ RunTime:0.000604s ]
+SQL: SELECT * FROM `eh_role` WHERE `id` = 3 LIMIT 1   [ RunTime:0.000239s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000091s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000175s ]
+NOTIC: [8] Undefined index: id E:\Studio\PHPApplication\ehview\Runtime\App\Cache\Admin\0646039e559c198eb99210f4665e5769.php 第 16 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010005s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010075s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000418s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000475s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000838s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000903s ]
+
+[ 2017-05-04T17:41:57+08:00 ] ::1 /ehview/index.php/Admin/Role/add?_=1493890510257
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000085s ]
+INFO: Run Common\Behavior\InitHookBehavior [ RunTime:0.001645s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002132s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000585s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000656s ]
+SQL: SHOW COLUMNS FROM `eh_role` [ RunTime:0.000631s ]
+SQL: SELECT `id`,`name`,`pid` FROM `eh_role`  [ RunTime:0.000277s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000074s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000153s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008711s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008787s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000421s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000482s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000728s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000795s ]
+
+[ 2017-05-04T17:42:01+08:00 ] ::1 /ehview/index.php?m=Admin&c=Node&a=index&_=1493890510258
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000039s ]
+INFO: Run Common\Behavior\InitHookBehavior [ RunTime:0.002732s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003466s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000830s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000976s ]
+SQL: SHOW COLUMNS FROM `eh_group` [ RunTime:0.000902s ]
+SQL: SELECT `id`,`title` FROM `eh_group` WHERE ( status=1 )  [ RunTime:0.000391s ]
+SQL: SHOW COLUMNS FROM `eh_node` [ RunTime:0.000701s ]
+NOTIC: [8] Undefined index: pid E:\Studio\PHPApplication\ehview\App\Admin\Controller\NodeController.class.php 第 12 行.
+SQL: SHOW COLUMNS FROM `eh_node` [ RunTime:0.000659s ]
+SQL: SELECT * FROM `eh_node` WHERE `id` = 1 LIMIT 1   [ RunTime:0.000439s ]
+NOTIC: [8] Undefined index: pid E:\Studio\PHPApplication\ehview\App\Admin\Controller\NodeController.class.php 第 23 行.
+NOTIC: [8] Undefined variable: order E:\Studio\PHPApplication\ehview\App\Admin\Controller\CommonController.class.php 第 177 行.
+NOTIC: [8] Undefined variable: sort E:\Studio\PHPApplication\ehview\App\Admin\Controller\CommonController.class.php 第 187 行.
+SQL: SELECT COUNT(*) AS tp_count FROM `eh_node` WHERE `pid` = 1 LIMIT 1   [ RunTime:0.000247s ]
+NOTIC: [8] Undefined variable: listRows E:\Studio\PHPApplication\ehview\App\Admin\Controller\CommonController.class.php 第 198 行.
+NOTIC: [8] Undefined index: pageNum E:\Studio\PHPApplication\ehview\App\Admin\Controller\CommonController.class.php 第 204 行.
+SQL: SELECT * FROM `eh_node` WHERE `pid` = 1 ORDER BY `id` desc LIMIT 0,10   [ RunTime:0.000599s ]
+NOTIC: [2] Division by zero E:\Studio\PHPApplication\ehview\ThinkPHP\Library\Think\Page.class.php 第 84 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000104s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000189s ]
+NOTIC: [8] Undefined index: name E:\Studio\PHPApplication\ehview\Runtime\App\Cache\Admin\f5d9020a722c182cb3cb2a19ed19b4d3.php 第 4 行.
+NOTIC: [8] Undefined index: orderField E:\Studio\PHPApplication\ehview\Runtime\App\Cache\Admin\f5d9020a722c182cb3cb2a19ed19b4d3.php 第 5 行.
+NOTIC: [8] Undefined index: orderDirection E:\Studio\PHPApplication\ehview\Runtime\App\Cache\Admin\f5d9020a722c182cb3cb2a19ed19b4d3.php 第 6 行.
+NOTIC: [8] Undefined index: name E:\Studio\PHPApplication\ehview\Runtime\App\Cache\Admin\f5d9020a722c182cb3cb2a19ed19b4d3.php 第 15 行.
+SQL: SHOW COLUMNS FROM `eh_group` [ RunTime:0.000811s ]
+SQL: SELECT `id`,`title` FROM `eh_group`  [ RunTime:0.000293s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.081596s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.081671s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000674s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000759s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001113s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001234s ]
+
+[ 2017-05-04T17:42:07+08:00 ] ::1 /ehview/index.php/Admin/Node/edit/id/500/navTabId/Node?_=1493890510259
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: Run Common\Behavior\InitHookBehavior [ RunTime:0.002173s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002654s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000649s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000723s ]
+SQL: SHOW COLUMNS FROM `eh_group` [ RunTime:0.000868s ]
+SQL: SELECT * FROM `eh_group` WHERE ( status=1 )  [ RunTime:0.000320s ]
+SQL: SHOW COLUMNS FROM `eh_node` [ RunTime:0.000745s ]
+SQL: SELECT * FROM `eh_node` WHERE `id` = 500 LIMIT 1   [ RunTime:0.000282s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000086s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000174s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.054239s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.054336s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000473s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000538s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000719s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000791s ]
+
+[ 2017-05-04T17:42:12+08:00 ] ::1 /ehview/index.php?m=Admin&c=Node&a=index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: Run Common\Behavior\InitHookBehavior [ RunTime:0.002676s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003215s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000591s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000693s ]
+SQL: SHOW COLUMNS FROM `eh_group` [ RunTime:0.000815s ]
+SQL: SELECT `id`,`title` FROM `eh_group` WHERE ( status=1 )  [ RunTime:0.000238s ]
+SQL: SHOW COLUMNS FROM `eh_node` [ RunTime:0.000498s ]
+SQL: SHOW COLUMNS FROM `eh_node` [ RunTime:0.000470s ]
+SQL: SELECT * FROM `eh_node` WHERE `id` = 1 LIMIT 1   [ RunTime:0.000270s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `eh_node` WHERE `pid` = 1 LIMIT 1   [ RunTime:0.000193s ]
+NOTIC: [8] Undefined variable: listRows E:\Studio\PHPApplication\ehview\App\Admin\Controller\CommonController.class.php 第 198 行.
+SQL: SELECT * FROM `eh_node` WHERE `pid` = 1 ORDER BY `id` desc LIMIT 0,10   [ RunTime:0.000413s ]
+NOTIC: [2] Division by zero E:\Studio\PHPApplication\ehview\ThinkPHP\Library\Think\Page.class.php 第 84 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000095s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000196s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011870s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011964s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000460s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000524s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000808s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000906s ]
+

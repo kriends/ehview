@@ -1,0 +1,12 @@
+[ 2017-05-13T11:06:23+08:00 ] ::1 /ehview/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: Run Common\Behavior\InitHookBehavior [ RunTime:0.014094s ]
+INFO: [ app_init ] --END-- [ RunTime:0.015261s ]
+
+[ 2017-05-13T11:35:26+08:00 ] ::1 /ehview/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: Run Common\Behavior\InitHookBehavior [ RunTime:0.002705s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003248s ]
+
